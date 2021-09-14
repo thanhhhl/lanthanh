@@ -36,13 +36,10 @@
 - However, as the addiction progresses, many people may continue to smoke in order to avoid withdrawal symptoms and due to the many conditioned cues that have become ingrained, which are a part of the compulsive, repetitive nature of tobacco smoking.
 - Thus, while nicotine is the primary addictive component of tobacco smoke, there are additional compounds such as MAO-A and MAO-B inhibitors that likely play a role.
 - Other imaging studies have demonstrated that even smoking a denicotinized cigarette, which supposedly has very low nicotine content, leads to occupancy of approximately 20 % of β2*-nAChRs in the brain (Brody et al. 2009).
-- 1 Imaging Tobacco Smoking with PET and SPECT - 3 Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - 3.1 Preclinical Microdialysis Studies
--
-- 8
 - This is similar to the level of occupancy produced by secondhand smoke.
-- 8
-- Di Chiara and Imperato performed the seminal study showing that drugs abused by humans release DA in the nucleus accumbens of the rat brain (Di Chiara and Imperato 1988).
-  The nucleus accumbens is a major input structure of the basal ganglia and integrates information from cortical and limbic structures to mediate goal-directed behaviors.
+- **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Preclinical Microdialysis Studies**
+- Di Chiara and Imperato performed the seminal study showing that drugs abused by humans release DA in the **nucleus accumbens** of the rat brain (Di Chiara and Imperato 1988).
+- The **nucleus accumbens** is a major input structure of the basal ganglia and integrates information from cortical and limbic structures to mediate goal-directed behaviors.
   8
   1 Imaging Tobacco Smoking with PET and SPECT - 3 Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - 3.2 Imaging Dopamine Release with PET
 - Nicotine increases synaptic dopamine levels, and the dopamine binds to the D2/3 receptors which reduce the number of available binding sites for the radiotracers which also bind the D2/D3 receptors.
