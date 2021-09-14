@@ -53,19 +53,13 @@
 		- Critically, we found that smokers with schizophrenia who have lower β2*-nAChR availability report more negative symptoms and perform worse on tests of executive control.
 		- This is important because there are medications available to treat the positive symptoms of schizophrenia (e.g., hallucinations and delusions), but there are no effective medications for the negative symptoms (e.g., anhedonia and ﬂat affect) that signiﬁcantly impair quality of life.
 - **Behavioral Mechanisms Underlying Nicotine Reinforcement**
-- We have hypothesized that nicotine has two effects on reinforcement; it increases the probability of responses resulting in nicotine delivery (primary reinforcement) and enhances the apparent reward value of non-nicotine reinforcers (reinforcement enhancing effect).
-  19
+- We have hypothesized that nicotine has two effects on **reinforcement**; it increases the probability of responses resulting in nicotine delivery (**primary reinforcement**) and enhances the apparent reward value of non-nicotine reinforcers (r**einforcement enhancing effect**).
 - The behavioral actions of nicotine are complex and extend well beyond the actions of the drug as a primary reinforcer.
-- 19
 - Stimuli that are consistently paired with nicotine can, through associative learning, take on reinforcing properties as conditioned stimuli.
-- 19
 - These conditioned stimuli can then impact the rate and probability of behavior and even function as conditioning reinforcers that maintain behavior in the absence of nicotine.
-- 19
 - Nicotine can also act as a conditioned stimulus (CS), predicting the delivery of other reinforcers, which may allow nicotine to acquire value as a conditioned reinforcer.
-- 19
-  Nicotine directly enhances the reinforcing efﬁcacy of other reinforcing stimuli in the envi- ronment, an effect that does not require a temporal or predictive relationship between nicotine and either the stimulus or the behavior.
-  19
-  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 2 Nicotine Self-administration
+- Nicotine directly enhances the reinforcing efﬁcacy of other reinforcing stimuli in the envi- ronment, an effect that does not require a temporal or predictive relationship between nicotine and either the stimulus or the behavior.
+- 2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 2 Nicotine Self-administration
 - 2 Nicotine Self-administration
 - 21
 - The gold standard for studying the reinforcing properties of drugs in experimental animals is self-administration in which animals need to perform a behavioral task (e.g., press a lever, poke their nose into a hole) to obtain the drug.
