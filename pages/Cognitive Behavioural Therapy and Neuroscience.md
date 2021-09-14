@@ -1,15 +1,16 @@
 - The neuroscientific investigations of basic CBT hypotheses have shown that
-- (i) functional and non-functional behavior and experiences may be learned through lifelong learning, due to brain neuroplasticity that continues across the entire lifespan;…
+- (i) functional and non-functional behavior and experiences may be learned through lifelong learning, due to brain neuroplasticity that continues across the entire lifespan;
 - (ii) cognitive activity contributes to dysfunctional behavior and emotional experience through focusing, selective perception, memory and recall, and characteristic cognitive distortion; on a neurobiological level, there is a relationship between top-down and bottom-up regulation of unpleasant emotional states…
-- …iii) cognitive activity may be changed, as shown by therapeutic success achieved by metacognitive and mindfulness techniques, which also have their neurobiological correlates in the changes occurring in the cortical and subcortical structures and endocrine and immune systems…
-  Cognitive-behavioral therapies (CBT) are short-term, collaborative, problem- focused therapeutic methods aimed at reducing symptoms and improving the quality of life of people with emotional disorders.
-  Due to having been rigorously tested, CBT is now considered an empirically- supported treatment for a variety of disorders, such as anxiety disorders, mood disorders, learning difficulties, sexual problems, and bulimia nervosa (Butler, Chapman, Forman, & Beck, 2006; Tolin, 2010).
+- iii) cognitive activity may be changed, as shown by therapeutic success achieved by metacognitive and mindfulness techniques, which also have their neurobiological correlates in the changes occurring in the cortical and subcortical structures and endocrine and immune systems…
+- Cognitive-behavioral therapies (CBT) are short-term, collaborative, problem- focused therapeutic methods aimed at reducing symptoms and improving the quality of life of people with emotional disorders.
+- Due to having been rigorously tested, CBT is now considered an empirically- supported treatment for a variety of disorders, such as anxiety disorders, mood disorders, learning difficulties, sexual problems, and bulimia nervosa (Butler, Chapman, Forman, & Beck, 2006; Tolin, 2010).
 - Cognitive-behavioral therapies combine two different theoretical and therapeutic approaches resulting from two different, but complementary paradigms of human nature and psychopathology.
 - One is the behavioral paradigm, based on the learning theory and models of experimental psychology.
 - Its basic idea is that every behavior, either adaptive or maladaptive, has been learned.
 - The other is the cognitive paradigm, which claims that mental disorders arise from altered cognitive processes, i.e., specific errors in information processing (Jokić-Begić, 2008).
 - There are a rapidly increasing proportion of studies using brain imaging methods to investigate cognitive functioning, emotional experience and self-regulation, psychopathological entities, pharmacotherapeutic and psychotherapeutic effects, placebo effect, and other phenomena traditionally studied within psychology and psychiatry.
 - These studies are based on non-invasive brain imaging techniques, such as functional neuroimaging technologies of positron emission tomography (PET) and functional magnetic resonance imaging (fMRI).
+- **Life-long Learning**
 - The basic CBT hypothesis is that people can continue to learn throughout their lives.
 - Every behavior that is learned may be unlearned and replaced by other behavior that is more functional.
 - Both functional and dysfunctional behavior is learned.
@@ -18,7 +19,6 @@
 - Do these changes in behavior and attitude have a neurobiological basis?
   Research has shown that cortical networks in the brain change, including synaptogenesis, neurogenesis (Bjorklund & Lindwall, 2000), and programmed cell death, as a result of one’s experience. The brain is characterized by neuroplasticity, or cortical remapping, which is a complex, multifaceted, and fundamental property of the living brain that allows it to adjust to the changes in environmental and physiological conditions and experience (Pascual- Leone, Amedi, Fregni, & Merabe, 2005)…
 - Individual connections within the brain are
-- constantly being removed or recreated, which largely depends upon how they are used.
 - One of the key elements of the human brain’s ability to change through neuroplasticity is creation of interconnections between neurons based on their simultaneous firing over a period of time.
 - It has also been established that learning accompanied by the development of new neuronal connections also leads to the development of new neurons (Gould, Beylin, Tanapat, Reeves, & Shors, 1999).
 - The impact of experience on neural and behavioral development depends on the timing, duration, and intensity of stimuli and biological vulnerability, resilience, potentiating risk factors, and protective effects (Gunnar & Fisher, 2006; Pollak, 2005).
