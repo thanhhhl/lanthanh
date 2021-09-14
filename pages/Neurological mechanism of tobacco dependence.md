@@ -59,14 +59,10 @@
 - These conditioned stimuli can then impact the rate and probability of behavior and even function as conditioning reinforcers that maintain behavior in the absence of nicotine.
 - Nicotine can also act as a conditioned stimulus (CS), predicting the delivery of other reinforcers, which may allow nicotine to acquire value as a conditioned reinforcer.
 - Nicotine directly enhances the reinforcing efﬁcacy of other reinforcing stimuli in the envi- ronment, an effect that does not require a temporal or predictive relationship between nicotine and either the stimulus or the behavior.
-- 2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 2 Nicotine Self-administration
-- 2 Nicotine Self-administration
-- 21
+- **Nicotine Self-administration**
 - The gold standard for studying the reinforcing properties of drugs in experimental animals is self-administration in which animals need to perform a behavioral task (e.g., press a lever, poke their nose into a hole) to obtain the drug.
-  21
-  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 2 Nicotine Self-administration - 2.1 Outcome Measures
-  The reinforcing effects of nicotine are affected by a number of important mod- erating variables. For example, the duration and route of administration of nicotine delivery and the sex and age of subjects impact the reinforcing properties of nic- otine and are highly relevant when considering the reinforcing properties of tobacco products.
-  22
+- The reinforcing effects of nicotine are affected by a number of important mod- erating variables. For example, the duration and route of administration of nicotine delivery and the sex and age of subjects impact the reinforcing properties of nic- otine and are highly relevant when considering the reinforcing properties of tobacco products.
+  
   2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 3 Primary Reinforcing Actions of Nicotine
 - 3 Primary Reinforcing Actions of Nicotine
 - 31
