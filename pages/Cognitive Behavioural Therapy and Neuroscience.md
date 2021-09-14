@@ -4,10 +4,9 @@
 	- iii) cognitive activity may be changed, as shown by therapeutic success achieved by metacognitive and mindfulness techniques, which also have their neurobiological correlates in the changes occurring in the cortical and subcortical structures and endocrine and immune systems
 - Cognitive-behavioral therapies (CBT) are short-term, collaborative, problem- focused therapeutic methods aimed at reducing symptoms and improving the quality of life of people with emotional disorders.
 - Due to having been rigorously tested, CBT is now considered an empirically- supported treatment for a variety of disorders, such as anxiety disorders, mood disorders, learning difficulties, sexual problems, and bulimia nervosa (Butler, Chapman, Forman, & Beck, 2006; Tolin, 2010).
-- Cognitive-behavioral therapies combine two different theoretical and therapeutic approaches resulting from two different, but complementary paradigms of human nature and psychopathology.
-- One is the behavioral paradigm, based on the learning theory and models of experimental psychology.
-- Its basic idea is that every behavior, either adaptive or maladaptive, has been learned.
-- The other is the cognitive paradigm, which claims that mental disorders arise from altered cognitive processes, i.e., specific errors in information processing (Jokić-Begić, 2008).
+- Cognitive-behavioral therapies combine **two different theoretical and therapeutic approaches** resulting from two different, but complementary paradigms of human nature and psychopathology.
+	- One is the **behavioral paradigm**, based on the learning theory and models of experimental psychology. Its basic idea is that every behavior, either adaptive or maladaptive, has been learned.
+	- The other is the **cognitive paradigm**, which claims that mental disorders arise from altered cognitive processes, i.e., specific errors in information processing (Jokić-Begić, 2008).
 - There are a rapidly increasing proportion of studies using brain imaging methods to investigate cognitive functioning, emotional experience and self-regulation, psychopathological entities, pharmacotherapeutic and psychotherapeutic effects, placebo effect, and other phenomena traditionally studied within psychology and psychiatry.
 - These studies are based on non-invasive brain imaging techniques, such as functional neuroimaging technologies of positron emission tomography (PET) and functional magnetic resonance imaging (fMRI).
 - **Life-long Learning**
