@@ -1,12 +1,8 @@
-- The neuroscientific investigations of basic CBT hypotheses have shown that…
-- Page 1
-- (i) functional and non-functional behavior and experiences may be learned through lifelong learning, due to brain neuroplasticity that continues across the entire lifespan;…
-- Page 1
-- (ii) cognitive activity contributes to dysfunctional behavior and emotional experience through focusing, selective perception, memory and recall, and characteristic cognitive distortion; on a neurobiological level, there is a relationship between top-down and bottom-up regulation of unpleasant emotional states…
-- Page 1
-- …iii) cognitive activity may be changed, as shown by therapeutic success achieved by metacognitive and mindfulness techniques, which also have their neurobiological correlates in the changes occurring in the cortical and subcortical structures and endocrine and immune systems…
-- Page 1
-  Cognitive-behavioral therapies (CBT) are short-term, collaborative, problem- focused therapeutic methods aimed at reducing symptoms and improving the quality of life of people with emotional disorders.
+- The neuroscientific investigations of basic CBT hypotheses have shown that:
+- (i) functional and non-functional behavior and experiences may be learned through lifelong learning, due to brain neuroplasticity that continues across the entire lifespan;
+- (ii) cognitive activity contributes to dysfunctional behavior and emotional experience through focusing, selective perception, memory and recall, and characteristic cognitive distortion; on a neurobiological level, there is a relationship between top-down and bottom-up regulation of unpleasant emotional states
+	- iii) cognitive activity may be changed, as shown by therapeutic success achieved by metacognitive and mindfulness techniques, which also have their neurobiological correlates in the changes occurring in the cortical and subcortical structures and endocrine and immune systems.
+- PCognitive-behavioral therapies (CBT) are short-term, collaborative, problem- focused therapeutic methods aimed at reducing symptoms and improving the quality of life of people with emotional disorders.
 - Page 2
   Due to having been rigorously tested, CBT is now considered an empirically- supported treatment for a variety of disorders, such as anxiety disorders, mood disorders, learning difficulties, sexual problems, and bulimia nervosa (Butler, Chapman, Forman, & Beck, 2006; Tolin, 2010).
 - Page 2
