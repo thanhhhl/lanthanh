@@ -93,17 +93,17 @@
 		- The primary reinforcing effects of nicotine and the consequent associative and con- ditioned reinforcing properties of nicotine are important in driving smoking behavior, but additional non-associative effects of nicotine on reinforced behavior may be equally important.
 		- Nicotine potentiates the reinforcing properties of other rewards. This latter effect occurs independent of any predictive relationship between nicotine and either the other stimulus or the target behavior (Caggiula et al. 2009).
 	- **Summary and Conclusions**
-	- Nicotine reinforcement is remarkably complex and requires understanding of both associative and non-associative mechanisms well beyond the primary reinforcing effects of the drug itself.
-	- From an associative perspective, environmental stimuli that predict nicotine delivery can become conditioned stimuli eliciting CRs that increase the probability of smoking.
-	- They will also become conditioned reinforcers through their pairing with nicotine, an unconditioned reinforcer, and will reinforce smoking behavior on their own.
-	- Contextual stimuli can become discriminative stimuli, increasing the probability of engaging in smoking behavior.
-	- Nicotine can also enter into associative relationships through its pairing with other reinforcing stimuli in the environment and consequently function as a CS or as a conditioned reinforcer, both of which may increase the likelihood of engaging in smoking behavior.
-	- From a non-associative perspective, nicotine, like other psychostimulants, can directly impact reinforcement from other stimuli in the environment.
-	- This effect is particularly robust with nicotine and has been emphasized in the “dual-reinforce- ment” model, which posits that nicotine maintains self-administration behavior as a primary reinforcer and a reinforcement enhancer (Caggiula et al. 2009; Donny et al. 2003).
-	- The reinforcement-enhancing properties of nicotine have been observed in experimental animals across age and sex, and, more recently, conﬁrmed to impact behavior in humans.
-	- Responding for both unconditioned reinforcers (sensory stimuli, food reward) and conditioned reinforcers (nicotine and non-nicotine rela- ted) can be enhanced by nicotine.
-	- The magnitude of the enhancement is dependent on the magnitude of the reinforcer and potentially the type of reinforcer and con- ditions under which it is available.
-	- In sum, self-administration of nicotine in humans and the rodent model is sus- tained by three main actions:
-		- (1) nicotine acts as a relatively weak primary rein- forcer; (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and
-		- (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and (3) nicotine can potentiate the incentive valence of other stimuli with reinforcing value.
-	- Other actions may also be important (e.g., nicotine as a CS), but future studies will be needed to conﬁrm these effects.
+		- Nicotine reinforcement is remarkably complex and requires understanding of both associative and non-associative mechanisms well beyond the primary reinforcing effects of the drug itself.
+		- From an associative perspective, environmental stimuli that predict nicotine delivery can become conditioned stimuli eliciting CRs that increase the probability of smoking.
+		- They will also become conditioned reinforcers through their pairing with nicotine, an unconditioned reinforcer, and will reinforce smoking behavior on their own.
+		- Contextual stimuli can become discriminative stimuli, increasing the probability of engaging in smoking behavior.
+		- Nicotine can also enter into associative relationships through its pairing with other reinforcing stimuli in the environment and consequently function as a CS or as a conditioned reinforcer, both of which may increase the likelihood of engaging in smoking behavior.
+		- From a non-associative perspective, nicotine, like other psychostimulants, can directly impact reinforcement from other stimuli in the environment.
+		- This effect is particularly robust with nicotine and has been emphasized in the “dual-reinforce- ment” model, which posits that nicotine maintains self-administration behavior as a primary reinforcer and a reinforcement enhancer (Caggiula et al. 2009; Donny et al. 2003).
+		- The reinforcement-enhancing properties of nicotine have been observed in experimental animals across age and sex, and, more recently, conﬁrmed to impact behavior in humans.
+		- Responding for both unconditioned reinforcers (sensory stimuli, food reward) and conditioned reinforcers (nicotine and non-nicotine rela- ted) can be enhanced by nicotine.
+		- The magnitude of the enhancement is dependent on the magnitude of the reinforcer and potentially the type of reinforcer and con- ditions under which it is available.
+		- In sum, self-administration of nicotine in humans and the rodent model is sus- tained by three main actions:
+			- (1) nicotine acts as a relatively weak primary rein- forcer; (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and
+			- (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and (3) nicotine can potentiate the incentive valence of other stimuli with reinforcing value.
+		- Other actions may also be important (e.g., nicotine as a CS), but future studies will be needed to conﬁrm these effects.
