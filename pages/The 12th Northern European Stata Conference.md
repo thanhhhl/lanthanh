@@ -1,0 +1,42 @@
+- **Estimating geometric rates with strisk** *by Matteo BottaiKarolinska Institutet*
+	- Abstract: Incidence rates are popular summary measures of the occurrence over time of events of interest. They are also named mortality rates or failure rates, depending on the context. The incidence rate is defined as the ratio between total number of events and total follow-up time and can be estimated with the **strate** command. #survival #incidencerate
+	- The *incidence rate* represents an average count per unit time, for example, average number of bacteria infections per year. It is an appropriate summary measure when the event of interest can occur multiple times on any given subject, like infections, but not for events that can occur only once, such as death. An appropriate summary measure of the latter type of events is the geometric rate, which represents a probability, or risk, per unit time, for example, the risk of dying in one year. This talk presents the strisk command for estimating geometric rates and illustrates its use and interpretation through a data example.
+	- command **strisk** estimates mortality risk of ex a drug: strisk drug #strisk #incidencerisk
+	- ![Screenshot 2021-09-03 at 14.22.02.png](../assets/Screenshot_202021-09-03_20at_2014.22.02_1630671774638_0.png)
+	- ![Screenshot 2021-09-03 at 14.24.30.png](../assets/Screenshot_202021-09-03_20at_2014.24.30_1630671883089_0.png)
+	- ![Screenshot 2021-09-03 at 14.24.30.png](../assets/Screenshot_202021-09-03_20at_2014.24.30_1630672201904_0.png)
+	-
+	- TODO : understand *incidence rate* vs *incidence risk*
+	  todo:: 1630672522600
+- **Fitting Cox proportional hazards model for interval-censored event-time data in Stata** *by Xiao Yang, StataCorp* #cox #interval-censored
+	- Abstract: In survival analysis, interval-censored event-time data occur when the event of interest is not always observed exactly but is known to lie within some time interval. These types of data arise in many areas, including medical, epidemiological, economic, financial, and sociological studies. Ignoring interval-censoring will often lead to biased estimates.
+	- A semiparametric Cox proportional hazards regression model is used routinely to analyze uncensored and right-censored event-time data. It is also appealing for interval-censored data because it does not require any parametric assumptions about the baseline hazard function. Also, under the proportional-hazards assumption, the hazard ratios are constant over time. Semiparametric estimation of interval-censored event-time data is challenging because none of the event times are observed exactly. Thus, "semiparametric" modeling of these data often resorted to using spline methods or piecewise-exponential models for the baseline hazard function.
+	- Genuine semiparametric modeling of interval-censored event-time data was not available until recent methodological advances, which are implemented in the **stintcox**  command. #stintcox
+	- In this presentation, I describe basic types of interval-censored data and demonstrate how to fit the semiparametric Cox proportional hazards model to these data using Stata's new **stintcox** command. I will also discuss how to interpret and plot results and how to graphically assess proportional-hazards assumptions. #stintcox
+	- ![Screenshot 2021-09-03 at 14.39.01.png](../assets/Screenshot_202021-09-03_20at_2014.39.01_1630673028883_0.png)
+	- ![Screenshot 2021-09-03 at 14.40.59.png](../assets/Screenshot_202021-09-03_20at_2014.40.59_1630673039664_0.png)
+	- ![image.png](../assets/image_1630673968888_0.png)
+	- ![Screenshot 2021-09-03 at 14.43.24.png](../assets/Screenshot_202021-09-03_20at_2014.43.24_1630673049214_0.png)
+	- ![Screenshot 2021-09-03 at 14.44.31.png](../assets/Screenshot_202021-09-03_20at_2014.44.31_1630673922494_0.png)
+	- ![Screenshot 2021-09-03 at 14.48.36.png](../assets/Screenshot_202021-09-03_20at_2014.48.36_1630673928586_0.png)
+	- ![Screenshot 2021-09-03 at 14.57.32.png](../assets/Screenshot_202021-09-03_20at_2014.57.32_1630673941976_0.png)
+	- ![Screenshot 2021-09-03 at 14.59.50.png](../assets/Screenshot_202021-09-03_20at_2014.59.50_1630674475379_0.png)
+	- ![Screenshot 2021-09-03 at 15.02.39.png](../assets/Screenshot_202021-09-03_20at_2015.02.39_1630674491687_0.png)
+	- ![Screenshot 2021-09-03 at 15.03.05.png](../assets/Screenshot_202021-09-03_20at_2015.03.05_1630674498331_0.png)
+	- **Interpretation**: Xvar are associated with time to infection of HIV
+	- ![Screenshot 2021-09-03 at 15.06.41.png](../assets/Screenshot_202021-09-03_20at_2015.06.41_1630674505436_0.png)
+	- We get different results with different SE estimation (p-value). Which one to use? It depends on datasets and structures.
+	- ![Screenshot 2021-09-03 at 15.09.38.png](../assets/Screenshot_202021-09-03_20at_2015.09.38_1630674761120_0.png)
+	- ![Screenshot 2021-09-03 at 15.10.36.png](../assets/Screenshot_202021-09-03_20at_2015.10.36_1630674768362_0.png)
+	- ![Screenshot 2021-09-03 at 15.12.29.png](../assets/Screenshot_202021-09-03_20at_2015.12.29_1630674774087_0.png)
+	- *favorspeed* for experimenting the results, while *favoraccuracy* for computing the accurate results
+	- ![Screenshot 2021-09-03 at 15.18.59.png](../assets/Screenshot_202021-09-03_20at_2015.18.59_1630694271588_0.png)
+	- ![Screenshot 2021-09-03 at 15.19.40.png](../assets/Screenshot_202021-09-03_20at_2015.19.40_1630694281304_0.png)
+	- ![Screenshot 2021-09-03 at 15.23.14.png](../assets/Screenshot_202021-09-03_20at_2015.23.14_1630694286719_0.png)
+	- ![Screenshot 2021-09-03 at 15.24.13.png](../assets/Screenshot_202021-09-03_20at_2015.24.13_1630694294192_0.png)
+	- ![Screenshot 2021-09-03 at 15.26.00.png](../assets/Screenshot_202021-09-03_20at_2015.26.00_1630694300510_0.png)
+	- ![Screenshot 2021-09-03 at 15.26.16.png](../assets/Screenshot_202021-09-03_20at_2015.26.16_1630694307066_0.png)
+	- ![Screenshot 2021-09-03 at 15.27.19.png](../assets/Screenshot_202021-09-03_20at_2015.27.19_1630694313866_0.png)
+	- ![Screenshot 2021-09-03 at 15.28.05.png](../assets/Screenshot_202021-09-03_20at_2015.28.05_1630694327841_0.png)
+	- ![Screenshot 2021-09-03 at 15.29.58.png](../assets/Screenshot_202021-09-03_20at_2015.29.58_1630694335467_0.png)
+	-
