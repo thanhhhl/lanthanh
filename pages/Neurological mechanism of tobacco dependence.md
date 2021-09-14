@@ -1,22 +1,14 @@
 - **The Role of Mesoaccumbens Dopamine in Nicotine Dependence**
   The mesoaccumbens projection neurons are regarded as a central node in the brain networks that regulate drive and hedonic experience, and their dysregulation is a common pathophysiological step in addictive behaviors as well as major depression.
-- 1 Imaging Tobacco Smoking with PET and SPECT - 1 Introduction
-  Positron emission computed tomography (PET) and single photon emission com- puted tomography (SPECT) are unique among imaging techniques in the ability to measure speciﬁc molecules in the brain.
-- 2
+- Positron emission computed tomography (PET) and single photon emission computed tomography (SPECT) are unique among imaging techniques in the ability to measure speciﬁc molecules in the brain.
 - They have revolutionized our ability to measure chemicals in the brains of living people.
-- 2
 - Brain chemicals, including receptors present in low concentrations (nM–pM range), are measured using “trace” doses of highly speciﬁc radioactive drugs (called radiotracers) and imaged with a PET or SPECT camera.
-- 2
 - The primary addictive chemical in tobacco smoke, nicotine, activates β2*-containing nicotinic acetylcholine receptors (β2*-nAChRs).
-- 2
 - Although there are other combinations of subunits that assemble to form nAChRs (see chapter entitled Structure of Neuronal Nictinic Receptors; volume 23), the β2*-nAChRs are pivotal (e.g., they are critical for the reinforcing effects of nicotine), and so this site has been a primary point of interest for radiotracer imaging in the smoking ﬁeld…
-- 2
 - In addition, when nicotine activates β2*-nAChRs located on mesolimbic dopamine (DA) neurons in the ventral tegmental area, this results in neuronal ﬁring and dopamine release in the nucleus accumbens (Imperato et al. 1986).
 - The ventral tegmental area (VTA) is a hub of the mesocorticolimbic circuitry that plays a significant role in reward, motivation, cognition, and aversion. Dopaminergic (DA) neurons, which make up 65% of neurons in the VTA, have been the primary focus of research into this brain region.
-  2
 - Both β2*-nAChRs and DA signaling are critical neurosubstrates underlying tobacco smoking behaviors and dependence.
-- 2
-  In this chapter, we will review the imaging literature that has provided insights into the molecular mech- anisms of tobacco smoking with a focus on studies examining β2*-nAChR avail- ability and DA neurotransmission.
+- In this chapter, we will review the imaging literature that has provided insights into the molecular mech- anisms of tobacco smoking with a focus on studies examining β2*-nAChR avail- ability and DA neurotransmission.
   2
   1 Imaging Tobacco Smoking with PET and SPECT - 2 Imaging beta 2*-Nicotinic Acetylcholine Receptors - 2.1 Preclinical Studies
 - The nAChRs that contain the β2*-subunit are critical for mediating the effects of nicotine in the brain including the reinforcing effects (Picciotto et al. 1998), dopamine release (Epping-Jordan et al. 1999; Koranda et al. 2013), sensitivity to nicotine (Cosgrove et al. 2010; Marubio et al. 1999; Tritto et al. 2004), and the incentive aspects of motivation (Brunzell et al. 2010) (see chapter entitled The Role of Mesoaccumbens Dopamine in Nicotine Dependence; this volume).
