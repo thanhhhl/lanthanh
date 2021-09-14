@@ -27,22 +27,22 @@
 	- At four weeks of abstinence subjects with higher β2*-nAChR avail- ability in the cerebellum reported both a greater desire to smoke and a greater urge to smoke to relieve withdrawal (Cosgrove et al. 2009).
 	- It is possible that nicotine replacement strategies may be effective because they continue to activate β2*-nAChRs. This leads to continued upregulation and the individual can “wean” the receptors off of nicotine as the dose of nicotine is decreased over time.
 - **Imaging beta 2*-Nicotinic Acetylcholine Receptors - Nicotine Occupancy of beta 2*-nAChRs**
-- In addition to receptor changes, imaging studies have informed our knowledge about what happens in the brain after someone smokes a cigarette. For example, after one puff of a cigarette, approximately 50 % of all β2*-nAChRs in the brain are occupied by nicotine. After smoking one or two cigarettes, the receptors are saturated, so up to 100 % of β2*-nAchRs are occupied by nicotine (Brody et al. 2006a; Esterlis et al. 2013).
-- We know that nicotine doesn’t clear the brain immediately, and in fact dependent smokers have a slower process of nicotine accumulation going into the brain from a cigarette than do nondependent smokers (Rose et al. 2010).
-- Both of these ideas—rapid accumulation and puff-associated spikes of nic- otine—had been proposed to explain the maintenance of tobacco dependence.
-- So with a slow kinetic proﬁle and with most receptors in a smoker occupied by nicotine throughout the day, why do people keep smoking?
-- People smoke for many different reasons, and nicotine reinforcement is only one component.
-- The reinforcement or pleasure derived from nicotine, like many other drugs of abuse, is necessary in driving the initial phases of drug-seeking behavior.
-- However, as the addiction progresses, many people may continue to smoke in order to avoid withdrawal symptoms and due to the many conditioned cues that have become ingrained, which are a part of the compulsive, repetitive nature of tobacco smoking.
-- Thus, while nicotine is the primary addictive component of tobacco smoke, there are additional compounds such as MAO-A and MAO-B inhibitors that likely play a role.
-- Other imaging studies have demonstrated that even smoking a denicotinized cigarette, which supposedly has very low nicotine content, leads to occupancy of approximately 20 % of β2*-nAChRs in the brain (Brody et al. 2009).
-- This is similar to the level of occupancy produced by secondhand smoke.
+	- In addition to receptor changes, imaging studies have informed our knowledge about what happens in the brain after someone smokes a cigarette. For example, after one puff of a cigarette, approximately 50 % of all β2*-nAChRs in the brain are occupied by nicotine. After smoking one or two cigarettes, the receptors are saturated, so up to 100 % of β2*-nAchRs are occupied by nicotine (Brody et al. 2006a; Esterlis et al. 2013).
+	- We know that nicotine doesn’t clear the brain immediately, and in fact dependent smokers have a slower process of nicotine accumulation going into the brain from a cigarette than do nondependent smokers (Rose et al. 2010).
+	- Both of these ideas—rapid accumulation and puff-associated spikes of nic- otine—had been proposed to explain the maintenance of tobacco dependence.
+	- So with a slow kinetic proﬁle and with most receptors in a smoker occupied by nicotine throughout the day, why do people keep smoking?
+	- People smoke for many different reasons, and nicotine reinforcement is only one component.
+	- The reinforcement or pleasure derived from nicotine, like many other drugs of abuse, is necessary in driving the initial phases of drug-seeking behavior.
+	- However, as the addiction progresses, many people may continue to smoke in order to avoid withdrawal symptoms and due to the many conditioned cues that have become ingrained, which are a part of the compulsive, repetitive nature of tobacco smoking.
+	- Thus, while nicotine is the primary addictive component of tobacco smoke, there are additional compounds such as MAO-A and MAO-B inhibitors that likely play a role.
+	- Other imaging studies have demonstrated that even smoking a denicotinized cigarette, which supposedly has very low nicotine content, leads to occupancy of approximately 20 % of β2*-nAChRs in the brain (Brody et al. 2009).
+	- This is similar to the level of occupancy produced by secondhand smoke.
 - **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Preclinical Microdialysis Studies**
-- Di Chiara and Imperato performed the seminal study showing that drugs abused by humans release DA in the **nucleus accumbens** of the rat brain (Di Chiara and Imperato 1988).
-- The **nucleus accumbens** is a major input structure of the basal ganglia and integrates information from cortical and limbic structures to mediate goal-directed behaviors.
-  8
-  1 Imaging Tobacco Smoking with PET and SPECT - 3 Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - 3.2 Imaging Dopamine Release with PET
-- Nicotine increases synaptic dopamine levels, and the dopamine binds to the D2/3 receptors which reduce the number of available binding sites for the radiotracers which also bind the D2/D3 receptors.
+	- Di Chiara and Imperato performed the seminal study showing that drugs abused by humans release DA in the **nucleus accumbens** of the rat brain (Di Chiara and Imperato 1988).
+	- The **nucleus accumbens** is a major input structure of the basal ganglia and integrates information from cortical and limbic structures to mediate goal-directed behaviors.
+	- Nicotine increases synaptic dopamine levels, and the dopamine binds to the D2/3 receptors which reduce the number of available binding sites for the radiotracers which also bind the D2/D3 receptors.
+- **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Imaging Dopamine Release with PET**
+-
 - 9
 - The change in number of available receptors from the baseline scan to the scan after the drug challenge is an indirect measure of increased dopamine levels
 - 9
