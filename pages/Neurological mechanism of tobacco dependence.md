@@ -102,17 +102,8 @@
 	- This effect is particularly robust with nicotine and has been emphasized in the “dual-reinforce- ment” model, which posits that nicotine maintains self-administration behavior as a primary reinforcer and a reinforcement enhancer (Caggiula et al. 2009; Donny et al. 2003).
 	- The reinforcement-enhancing properties of nicotine have been observed in experimental animals across age and sex, and, more recently, conﬁrmed to impact behavior in humans.
 	- Responding for both unconditioned reinforcers (sensory stimuli, food reward) and conditioned reinforcers (nicotine and non-nicotine rela- ted) can be enhanced by nicotine.
-	- 43
-	- The magnitude of the enhancement is dependent
-	  43
-	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - Acknowledgments
-	  on the magnitude of the reinforcer and potentially the type of reinforcer and con- ditions under which it is available.
-	- 44
-	  In sum, self-administration of nicotine in humans and the rodent model is sus- tained by three main actions:
-	- 44
-	  (1) nicotine acts as a relatively weak primary rein- forcer; (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and…
-	- 44
-	- (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and (3) nicotine can potentiate the incentive valence of other stimuli with reinforcing value.
-	- 44
+	- The magnitude of the enhancement is dependent on the magnitude of the reinforcer and potentially the type of reinforcer and con- ditions under which it is available.
+	- In sum, self-administration of nicotine in humans and the rodent model is sus- tained by three main actions:
+		- (1) nicotine acts as a relatively weak primary rein- forcer; (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and
+		- (2) nicotine can establish conditioned reinforcers in the environment through associative processes; and (3) nicotine can potentiate the incentive valence of other stimuli with reinforcing value.
 	- Other actions may also be important (e.g., nicotine as a CS), but future studies will be needed to conﬁrm these effects.
-	- 44
