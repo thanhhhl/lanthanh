@@ -72,12 +72,8 @@
 	- Following one or more pairings, the originally neutral stimulus elicits a CR in the absence of the US and is now called a CS.
 	- In this case, any environmental stimulus that is consistently predictive of nicotine may come to serve as a CS and elicit a CR.
 	- In an operant procedure, the CS might be a light or a tone paired with nicotine delivery (provided the cue does not initially by itself elicit the response).
-	- In the context of cigarette smoking, the look or feel of a cigarette, the taste of tobacco, lighters, the cigarette pack, the smoking corner outside of the ofﬁce, the effects of alcohol, certain friend groups,
-	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 4 Associative Learning and the Influence of Stimuli Predicting the Effects of Nicotine - 4.2 Nicotine-Associated Stimuli as Conditioned Reinforcers
-	- etc., might all function to elicit CRs, even in the absence of subsequent nicotine delivery, because they have previously been repeatedly paired with nicotine.
-	- 33
-	- 4.2 **_Nicotine-Associated Stimuli as Conditioned Reinforcers_**
-	- 33
+	- In the context of cigarette smoking, the look or feel of a cigarette, the taste of tobacco, lighters, the cigarette pack, the smoking corner outside of the ofﬁce, the effects of alcohol, certain friend groups etc., might all function to elicit CRs, even in the absence of subsequent nicotine delivery, because they have previously been repeatedly paired with nicotine.
+	- **_Nicotine-Associated Stimuli as Conditioned Reinforcers_**
 	- Because smoking stimuli have been paired with nicotine, and nicotine functions as an unconditioned (i.e., primary) reinforcer, these cues can come to reinforce behavior on their own (i.e., become conditioned reinforcers).
 	  33
 	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 4 Associative Learning and the Influence of Stimuli Predicting the Effects of Nicotine - 4.3 Nicotine-Associated Contexts as Discriminative Stimuli
