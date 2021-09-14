@@ -35,9 +35,9 @@
 - The reinforcement or pleasure derived from nicotine, like many other drugs of abuse, is necessary in driving the initial phases of drug-seeking behavior.
 - However, as the addiction progresses, many people may continue to smoke in order to avoid withdrawal symptoms and due to the many conditioned cues that have become ingrained, which are a part of the compulsive, repetitive nature of tobacco smoking.
 - Thus, while nicotine is the primary addictive component of tobacco smoke, there are additional compounds such as MAO-A and MAO-B inhibitors that likely play a role.
-- Other imaging studies have demonstrated that even smoking a denicotinized cigarette, which supposedly has very low nicotine content, leads to occupancy of
+- Other imaging studies have demonstrated that even smoking a denicotinized cigarette, which supposedly has very low nicotine content, leads to occupancy of approximately 20 % of β2*-nAChRs in the brain (Brody et al. 2009).
 - 1 Imaging Tobacco Smoking with PET and SPECT - 3 Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - 3.1 Preclinical Microdialysis Studies
-- approximately 20 % of β2*-nAChRs in the brain (Brody et al. 2009).
+-
 - 8
 - This is similar to the level of occupancy produced by secondhand smoke.
 - 8
