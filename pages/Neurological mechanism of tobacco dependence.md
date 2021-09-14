@@ -75,26 +75,15 @@
 	- In the context of cigarette smoking, the look or feel of a cigarette, the taste of tobacco, lighters, the cigarette pack, the smoking corner outside of the ofﬁce, the effects of alcohol, certain friend groups etc., might all function to elicit CRs, even in the absence of subsequent nicotine delivery, because they have previously been repeatedly paired with nicotine.
 	- **_Nicotine-Associated Stimuli as Conditioned Reinforcers_**
 	- Because smoking stimuli have been paired with nicotine, and nicotine functions as an unconditioned (i.e., primary) reinforcer, these cues can come to reinforce behavior on their own (i.e., become conditioned reinforcers).
-	  33
-	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 4 Associative Learning and the Influence of Stimuli Predicting the Effects of Nicotine - 4.3 Nicotine-Associated Contexts as Discriminative Stimuli
-	  …clinical experimental studies show that individuals who try to refrain from smoking are signiﬁcantly more likely to lapse regardless of the nicotine content of those cigarette; even cigarettes with very little nicotine increased the probability of relapse compared to not smoking (Juliano et al. 2006). These data indicate that interacting with smoking stimuli may precipitate smoking behavior during absti- nence…
-	- 34
-	- 4.3 **_Nicotine-Associated Contexts as Discriminative Stimuli_**
-	  34
-	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 4 Associative Learning and the Influence of Stimuli Predicting the Effects of Nicotine - 4.4 Individual Differences in Associative Learning Effects
-	  In two studies, smokers were asked to smoke cigarettes with very low nicotine contents. In a study con- ducted in an in-patient hospital unit, there was a decrease in smoking behavior when smokers switched to these low-nicotine cigarettes (Donny et al. 2007).
-	- 35
+	- Clinical experimental studies show that individuals who try to refrain from smoking are signiﬁcantly more likely to lapse regardless of the nicotine content of those cigarette; even cigarettes with very little nicotine increased the probability of relapse compared to not smoking (Juliano et al. 2006). These data indicate that interacting with smoking stimuli may precipitate smoking behavior during abstinence.
+	- **_Nicotine-Associated Contexts as Discriminative Stimuli_**
+	- In two studies, smokers were asked to smoke cigarettes with very low nicotine contents. In a study con- ducted in an in-patient hospital unit, there was a decrease in smoking behavior when smokers switched to these low-nicotine cigarettes (Donny et al. 2007).
 	- However, smoking behavior did not change when a similar study was conducted in the natural environment (Donny and Jones 2009).
-	- 35
 	- It may have been easier for smokers to learn that smoking no longer resulted in nicotine delivery in a completely novel context than the natural environment in which smoking behavior had a long history of being reinforced across many contexts (Conklin 2010; Wray et al. 2011).
-	- 35
-	- 4.4 **_Individual Differences in Associative Learning Effects_**
-	- 35
+	- **_Individual Differences in Associative Learning Effects_**
 	- Sex may be another determinant of cue effects.
-	- 35
 	- On average, women are more likely to be affected by smoking cues than men, who may be more directly inﬂuenced by nicotine (Perkins 2009; Perkins et al. 2002).
-	- 35
-	  However, preclinical work does not support this idea. One study evaluated cue- induced and nicotine-primed reinstatement in male and female rats (Feltenstein et al. 2012). There were no sex- or estrous cycle-dependent differences between male and female rats.
+	- However, preclinical work does not support this idea. One study evaluated cue- induced and nicotine-primed reinstatement in male and female rats (Feltenstein et al. 2012). There were no sex- or estrous cycle-dependent differences between male and female rats.
 	  35
 	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 6 Reinforcement-Enhancing Effects of Nicotine
 	- 5 Associative Learning and the Inﬂuence of Nicotine as a Predictor of Other Reinforcers
