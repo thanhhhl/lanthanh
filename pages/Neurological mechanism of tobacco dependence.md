@@ -1,9 +1,6 @@
-- 2015_Book_TheNeuropharmacologyOfNicotine
-  Contents
-- The Role of Mesoaccumbens Dopamine in Nicotine Dependence .
+- **The Role of Mesoaccumbens Dopamine in Nicotine Dependence**
   The mesoaccumbens projection neurons are regarded as a central node in the brain networks that regulate drive and hedonic experience, and their dysregulation is a common pathophysiological step in addictive behaviors as well as major depression.
-  vii
-  1 Imaging Tobacco Smoking with PET and SPECT - 1 Introduction
+- 1 Imaging Tobacco Smoking with PET and SPECT - 1 Introduction
   Positron emission computed tomography (PET) and single photon emission com- puted tomography (SPECT) are unique among imaging techniques in the ability to measure speciﬁc molecules in the brain.
 - 2
 - They have revolutionized our ability to measure chemicals in the brains of living people.
