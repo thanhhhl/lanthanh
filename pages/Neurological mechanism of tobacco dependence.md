@@ -17,15 +17,10 @@
 - **Imaging beta 2*-Nicotinic Acetylcholine Receptors - Imaging the Normalization of beta 2*-nAChRs in Tobacco Smokers**
 - The postmortem study (Breese et al. 1997) indicated that smokers who had quit smoking at least two months prior to their death had β2*-nAChRs levels similar to controls.
 - However, smokers in the study had quit anywhere from 2 months to 30 years prior to their death, so the study did not shed light on the acute time course of receptor changes (e.g., during acute withdrawal in the ﬁrst few months of abstinence, when relapse rates are high…
-- In our next study, we imaged β2*-nAChR changes over the ﬁrst few months of abstinence in tobacco smokers (Cosgrove et al. 2009). As shown in Fig. 2, at one day of abstinence, nicotine is still present in the brain blocking the radioligand from binding to the receptor and there is no difference in β2*-nAChR availability com- pared to the group of nonsmokers. At one week of abstinence, there is higher β2*-nAChR availability in smokers compared to nonsmokers consistent with the previous study (Staley et al. 2006). Then even at 2 and 4 weeks of abstinence, receptor availability remains high and does not return to nonsmoker control levels
-- **Imaging beta 2*-Nicotinic Acetylcholine Receptors - Sex Differences in beta 2*-nAChR Availability**
-- until 6–12 weeks of abstinence.
-- 6
-  This study (Cosgrove et al. 2009) and others (Brody et al. 2013b; Mamede et al. 2007) demonstrate that upregulation of β2*-nAChRs is initially persistent, but that β2*-nAChRs normalize over approxi- mately 6–12 weeks of abstinence from cigarettes and all other nicotine-containing products.
-- 6
+- In our next study, we imaged β2*-nAChR changes over the ﬁrst few months of abstinence in tobacco smokers (Cosgrove et al. 2009). As shown in Fig. 2, at one day of abstinence, nicotine is still present in the brain blocking the radioligand from binding to the receptor and there is no difference in β2*-nAChR availability com- pared to the group of nonsmokers. At one week of abstinence, there is higher β2*-nAChR availability in smokers compared to nonsmokers consistent with the previous study (Staley et al. 2006). Then even at 2 and 4 weeks of abstinence, receptor availability remains high and does not return to nonsmoker control levels until 6–12 weeks of abstinence.
+- This study (Cosgrove et al. 2009) and others (Brody et al. 2013b; Mamede et al. 2007) demonstrate that upregulation of β2*-nAChRs is initially persistent, but that β2*-nAChRs normalize over approxi- mately 6–12 weeks of abstinence from cigarettes and all other nicotine-containing products.
 - These brain changes parallel the clinical course of smoking cessation in which craving, relapse, and withdrawal symptoms slowly dissipate over the ﬁrst few months of abstinence even though relapse may occur months or years after the last cigarette.
-- 6
-  The type of cigarette smoked modulates the degree of upregulation. Cigarettes containing menthol, which are used by up to 1/3 of smokers, lead to higher β2*-nAChR availability than non-menthol-containing cig- arettes (Brody et al. 2013a).
+- The type of cigarette smoked modulates the degree of upregulation. Cigarettes containing menthol, which are used by up to 1/3 of smokers, lead to higher β2*-nAChR availability than non-menthol-containing cig- arettes (Brody et al. 2013a).
 - As it inhibits nicotine metabolism
   6
   At one week of abstinence, β2*-nAChR availability in the sensorimotor cortex was nega- tively correlated with the urge to smoke to relieve withdrawal symptoms (Staley et al. 2006). At four weeks of abstinence subjects with higher β2*-nAChR avail- ability in the cerebellum reported both a greater desire to smoke and a greater urge to smoke to relieve withdrawal…
