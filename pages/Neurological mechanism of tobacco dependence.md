@@ -37,21 +37,21 @@
 		- Thus, while nicotine is the primary addictive component of tobacco smoke, there are additional compounds such as MAO-A and MAO-B inhibitors that likely play a role.
 		- Other imaging studies have demonstrated that even smoking a denicotinized cigarette, which supposedly has very low nicotine content, leads to occupancy of approximately 20 % of β2*-nAChRs in the brain (Brody et al. 2009).
 		- This is similar to the level of occupancy produced by secondhand smoke.
-- **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Preclinical Microdialysis Studies**
-	- Di Chiara and Imperato performed the seminal study showing that drugs abused by humans release DA in the **nucleus accumbens** of the rat brain (Di Chiara and Imperato 1988).
-	- The **nucleus accumbens** is a major input structure of the basal ganglia and integrates information from cortical and limbic structures to mediate goal-directed behaviors.
-	- Nicotine increases synaptic dopamine levels, and the dopamine binds to the D2/3 receptors which reduce the number of available binding sites for the radiotracers which also bind the D2/D3 receptors.
-	- The change in number of available receptors from the baseline scan to the scan after the drug challenge is an indirect measure of increased dopamine levels
-- **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Imaging Dopamine Release with PET**
-- Striatal (short for corpus striatum) dopamine release has been reliably measured using stimulants such as amphetamine or tobacco smoking with radiotracers such as [11C]raclopride PET or [123I]IBZM SPECT (see Laruelle 2000 for review).
-- For all of the dopaminergic radiotracers, drugs such as amphetamine robustly increase synaptic DA.
-- Although nicotine is a less robust DA releaser compared to amphetamine, there are many studies that have examined nicotine and tobacco smoking-induced DA release in human subjects.
-- Imaging the Comorbidity of Tobacco Smoking with Schizophrenia
-- While approximately 20 % of the adult American population smokes cigarettes, the prevalence of tobacco smoking is up to 4 times higher in individuals with schizo- phrenia (see chapter entitled Psychiatric Disorders as Vulnerability Factors for Nicotine Add
-- Speciﬁcally, nonsmokers with and without schizophrenia had similar numbers of β2*-nAChRs; however, smokers with schizophrenia had lower numbers of β2*-nAChRs than healthy smokers (Breese et al. 2000).
-- We conﬁrmed the postmortem study and demonstrated that smokers with schizophrenia do have higher β2*-nAChR avail- ability than nonsmokers with schizophrenia; however, the difference was restricted to fewer regions than we have found in otherwise healthy smokers.
-- Critically, we found that smokers with schizophrenia who have lower β2*-nAChR availability report more negative symptoms and perform worse on tests of executive control.
-- This is important because there are medications available to treat the positive symptoms of schizophrenia (e.g., hallucinations and delusions), but there are no effective medications for the negative symptoms (e.g., anhedonia and ﬂat affect) that signiﬁcantly impair quality of life.
+	- **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Preclinical Microdialysis Studies**
+		- Di Chiara and Imperato performed the seminal study showing that drugs abused by humans release DA in the **nucleus accumbens** of the rat brain (Di Chiara and Imperato 1988).
+		- The **nucleus accumbens** is a major input structure of the basal ganglia and integrates information from cortical and limbic structures to mediate goal-directed behaviors.
+		- Nicotine increases synaptic dopamine levels, and the dopamine binds to the D2/3 receptors which reduce the number of available binding sites for the radiotracers which also bind the D2/D3 receptors.
+		- The change in number of available receptors from the baseline scan to the scan after the drug challenge is an indirect measure of increased dopamine levels
+	- **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Imaging Dopamine Release with PET**
+		- Striatal (short for corpus striatum) dopamine release has been reliably measured using stimulants such as amphetamine or tobacco smoking with radiotracers such as [11C]raclopride PET or [123I]IBZM SPECT (see Laruelle 2000 for review).
+		- For all of the dopaminergic radiotracers, drugs such as amphetamine robustly increase synaptic DA.
+		- Although nicotine is a less robust DA releaser compared to amphetamine, there are many studies that have examined nicotine and tobacco smoking-induced DA release in human subjects.
+	- **Imaging the Comorbidity of Tobacco Smoking with Schizophrenia**
+		- While approximately 20 % of the adult American population smokes cigarettes, the prevalence of tobacco smoking is up to 4 times higher in individuals with schizo- phrenia (see chapter entitled Psychiatric Disorders as Vulnerability Factors for Nicotine Add
+		- Speciﬁcally, nonsmokers with and without schizophrenia had similar numbers of β2*-nAChRs; however, smokers with schizophrenia had lower numbers of β2*-nAChRs than healthy smokers (Breese et al. 2000).
+		- We conﬁrmed the postmortem study and demonstrated that smokers with schizophrenia do have higher β2*-nAChR avail- ability than nonsmokers with schizophrenia; however, the difference was restricted to fewer regions than we have found in otherwise healthy smokers.
+		- Critically, we found that smokers with schizophrenia who have lower β2*-nAChR availability report more negative symptoms and perform worse on tests of executive control.
+		- This is important because there are medications available to treat the positive symptoms of schizophrenia (e.g., hallucinations and delusions), but there are no effective medications for the negative symptoms (e.g., anhedonia and ﬂat affect) that signiﬁcantly impair quality of life.
 - Behavioral Mechanisms Underlying Nicotine Reinforcement - Abstract
 - Behavioral Mechanisms Underlying Nicotine Reinforcement
 - We have hypothesized that nicotine has two effects on reinforcement; it increases the probability of responses resulting in nicotine delivery (primary reinforcement) and enhances the apparent reward value of non-nicotine reinforcers (reinforcement enhancing effect).
