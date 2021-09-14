@@ -1,3 +1,4 @@
+-
 - jokic_begic_n_cognitive_behavioral_therapy_and_neuroscience
 - The neuroscientific investigations of basic CBT hypotheses have shown that…
 - Page 1
