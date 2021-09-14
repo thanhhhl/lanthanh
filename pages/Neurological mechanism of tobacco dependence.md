@@ -85,41 +85,23 @@
 			- On average, women are more likely to be affected by smoking cues than men, who may be more directly inﬂuenced by nicotine (Perkins 2009; Perkins et al. 2002).
 			- However, preclinical work does not support this idea. One study evaluated cue- induced and nicotine-primed reinstatement in male and female rats (Feltenstein et al. 2012). There were no sex- or estrous cycle-dependent differences between male and female rats.
 	- **Associative Learning and the Inﬂuence of Nicotine as a Predictor of Other Reinforcers**
-	- 36
-	- In these experiments, nicotine signals that one behavior will be reinforced and another will not. Relatedly, humans can learn to engage in one response if they receive nicotine nasal spray and another response if they receive saline spray (Perkins et al. 1994).
-	- 36
-	- Researchers have extended this ﬁnding to show that nicotine, when paired with a reinforcer, even when it is not contingent upon behavior, can increase the rate of behavior directed at the location of reinforcer delivery (i.e., goal tracking; Besheer et al. 2004).
-	- 36
-	  The role of nicotine as a predictor of other reinforcers in acquiring or main- taining smoking behavior is unclear.
-	- 36
-	- Drugs such as alcohol, marijuana, and caffeine are frequently co-used with nicotine. Smokers who have a cigarette with their morning coffee may associate nicotine with coffee and enjoy cigarettes even on mornings when they choose decaffeinated coffee.
-	- 36
+		- In these experiments, nicotine signals that one behavior will be reinforced and another will not. Relatedly, humans can learn to engage in one response if they receive nicotine nasal spray and another response if they receive saline spray (Perkins et al. 1994).
+		- Researchers have extended this ﬁnding to show that nicotine, when paired with a reinforcer, even when it is not contingent upon behavior, can increase the rate of behavior directed at the location of reinforcer delivery (i.e., goal tracking; Besheer et al. 2004).
+		- The role of nicotine as a predictor of other reinforcers in acquiring or main- taining smoking behavior is unclear.
+		- Drugs such as alcohol, marijuana, and caffeine are frequently co-used with nicotine. Smokers who have a cigarette with their morning coffee may associate nicotine with coffee and enjoy cigarettes even on mornings when they choose decaffeinated coffee.
 	- **Reinforcement-Enhancing Effects of Nicotine**
-	- 36
-	  The primary reinforcing effects of nicotine and the consequent associative and con- ditioned reinforcing properties of nicotine are important in driving smoking behavior, but additional non-associative effects of nicotine on reinforced behavior may be equally important.
-	- 36
-	- Nicotine potentiates the reinforcing properties of other rewards. This latter effect occurs independent of any predictive relationship between nicotine and either the other stimulus or the target behavior (Caggiula et al. 2009).
-	  36
-	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 7 Summary and Conclusions
-	- 7 Summary and Conclusions
-	- 43
+		- The primary reinforcing effects of nicotine and the consequent associative and con- ditioned reinforcing properties of nicotine are important in driving smoking behavior, but additional non-associative effects of nicotine on reinforced behavior may be equally important.
+		- Nicotine potentiates the reinforcing properties of other rewards. This latter effect occurs independent of any predictive relationship between nicotine and either the other stimulus or the target behavior (Caggiula et al. 2009).
+	- **Summary and Conclusions**
 	- Nicotine reinforcement is remarkably complex and requires understanding of both associative and non-associative mechanisms well beyond the primary reinforcing effects of the drug itself.
-	- 43
 	- From an associative perspective, environmental stimuli that predict nicotine delivery can become conditioned stimuli eliciting CRs that increase the probability of smoking.
-	- 43
 	- They will also become conditioned reinforcers through their pairing with nicotine, an unconditioned reinforcer, and will reinforce smoking behavior on their own.
-	- 43
 	- Contextual stimuli can become discriminative stimuli, increasing the probability of engaging in smoking behavior.
-	- 43
 	- Nicotine can also enter into associative relationships through its pairing with other reinforcing stimuli in the environment and consequently function as a CS or as a conditioned reinforcer, both of which may increase the likelihood of engaging in smoking behavior.
-	- 43
 	- From a non-associative perspective, nicotine, like other psychostimulants, can directly impact reinforcement from other stimuli in the environment.
-	- 43
-	  This effect is particularly robust with nicotine and has been emphasized in the “dual-reinforce- ment” model, which posits that nicotine maintains self-administration behavior as a primary reinforcer and a reinforcement enhancer (Caggiula et al. 2009; Donny et al. 2003).
-	- 43
+	- This effect is particularly robust with nicotine and has been emphasized in the “dual-reinforce- ment” model, which posits that nicotine maintains self-administration behavior as a primary reinforcer and a reinforcement enhancer (Caggiula et al. 2009; Donny et al. 2003).
 	- The reinforcement-enhancing properties of nicotine have been observed in experimental animals across age and sex, and, more recently, conﬁrmed to impact behavior in humans.
-	- 43
-	  Responding for both unconditioned reinforcers (sensory stimuli, food reward) and conditioned reinforcers (nicotine and non-nicotine rela- ted) can be enhanced by nicotine.
+	- Responding for both unconditioned reinforcers (sensory stimuli, food reward) and conditioned reinforcers (nicotine and non-nicotine rela- ted) can be enhanced by nicotine.
 	- 43
 	- The magnitude of the enhancement is dependent
 	  43
