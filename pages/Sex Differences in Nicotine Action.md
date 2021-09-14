@@ -1,0 +1,19 @@
+- Although social factors impact smoking substantially in humans, ﬁndings from nonhuman subjects in controlled experiments provide support that sex differences in nicotine/tobacco addiction have a biological basis.
+- Differences in the pharmacokinetic properties of nicotine or the effect of gonadal hormones may underlie some but not all sex differences observed.
+- Literature ﬁndings suggest that including sex as a factor in nicotine/tobacco-related studies will improve our success rates in individually tailored smoking cessation programs.
+- In human subjects, although the dissimilar inﬂuence of social and environmental pressures on males and females cannot be overlooked, biological factors are also evident and suggest similarities to the differences observed in animal models of addiction.
+- **Women have greater vulnerability for smoking-related diseases** (speciﬁcally my- ocardial infarction and lung cancer) than men, but are **less successful in quitting smoking** (Harris et al. 1993; Zang and Wynder 1996; Thun et al. 2002; Henschke and Miettinen 2004; Henschke et al. 2006).
+- Men beneﬁt from nicotine replacement therapy more than women (reviewed by Perkins 2001).
+- **Nicotine Metabolism**
+- There are conﬁrmed sex differences in some biological parameters such as body weight, body fat, plasma volume, gastric emptying time, plasma protein levels, cytochrome P450 activity, drug transporter function, renal processes, and excretion activity; all these factors underlie differences in pharmacokinetics (bioavailability, distribution, metabolism, and elimination) of drugs (see chapters by Benowitz, and by Mwenifumbo and Tyndale, this volume)
+- **Locomotor Activity**
+- **Reward Systems**
+- **Genetics**
+- **Development: Prenatal and Adolescent Exposure**
+- **Nicotinic Receptors**
+- **Consummatory Behavior and Body Weight**
+- **Self-Administration**
+- **Cognitive Effects**
+- **HPA Axis, Anxiety, and Stress**
+- **Neuropsychiatric Disorders**
+- **Smoking Cessation**

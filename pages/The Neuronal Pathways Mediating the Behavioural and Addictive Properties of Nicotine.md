@@ -1,0 +1,15 @@
+- It is now widely accepted that nicotine is the principal addictive component of tobacco smoke and that many habitual smokers ﬁnd it difﬁcult to quit the habit because they have become dependent upon the nicotine they inhale in the smoke.
+- Drugs of dependence generally exert two effects that contribute to their addictive properties. They have **[[reinforcing]] or [[rewarding]] effects**, which an addicted individual, it is assumed, ﬁnds so powerful that the drive to re-experience these effects comes to dominate the behavioural repertoire of the addict.
+- Chronic or repeated exposure to addictive drugs also often results in biological changes within the brain and else where in the body, which cause an aversive abstinence syndrome when the drug is withdrawn precipitously
+- Thus, addicted individuals may continue taking the drug in order to avoid experiencing the abstinence syndrome.
+- **The Role of Mesolimbic Dopamine**
+	- For the last two decades, the **mesolimbic dopamine (DA)** hypothesis of dependence has dominated thinking in relation to the neurobiological mechanisms that **underpin the addiction to drugs.**
+	- It is also important to acknowledge that the results of some studies that have sought to explore **the role of DA pathways in reward and reinforcement** have generated results that cast doubt on a simple relationship between increased DA release in mesolimbic regions of the brain and the reinforcing properties of drugs of abuse.
+- **The Role of the Dorsal Striatum**
+	- There is evidence that nicotine also stimulates the DA projections to the dorsal striatum (Benwell and Balfour 1997; Quick 2004).
+	- To date, relatively few studies have sought to directly link this response to the drug with behavioural changes associated with dependence.
+	- Furthermore, a recent study has shown that an increase in DA release in the dorsal striatum is not associ- ated with an increased craving for cocaine unless coupled with cocaine-related cues.
+- **The Neurobiology Underlying Nicotine Withdrawal**
+- **The Putative Role of Serotonergic Pathways in Nicotine Dependence**
+- **The Role of Metabotropic Glutamatergic Receptors in Behavioural Measures of Nicotine Dependence**
+- **The Role of Cannabinoid Receptors**

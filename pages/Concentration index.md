@@ -1,0 +1,2 @@
+- O'Donnell, O., O'Neill, S., Van Ourti, T., & Walsh, B. (2016). conindex: Estimation of concentration indices. The Stata journal, 16(1), 112–138. Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4819995
+-

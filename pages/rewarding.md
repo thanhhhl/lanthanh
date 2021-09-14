@@ -1,0 +1,1 @@
+- The brain **reward system** is a brain circuit that causes feelings of pleasure when it's “turned on” by something we enjoy, like eating good food or being in love. Whenever this reward circuit is activated, our brains note that something important is happening that's worth remembering and repeating. #reward #rewarding

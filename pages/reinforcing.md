@@ -1,0 +1,1 @@
+- Reinforcement is defined as a consequence that follows an operant response that increase (or attempts to increase) the likelihood of that response occurring in the future. #reinforcing #reinforcement

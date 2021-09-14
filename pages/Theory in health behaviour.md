@@ -1,0 +1,7 @@
+- **What is theory?**
+	- "A set of interrelated concepts, definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining and predicting phenomena" - Kerlinger, 1986
+	- are abstract and do not have a specified content or topic area
+	- can only be approximated
+	- To answer why/what/how
+	- guide the search for modifiable factors (e.g. knowledge, attitudes...)
+- Concepts, Constructs and Variables
