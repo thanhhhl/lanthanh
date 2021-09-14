@@ -1,17 +1,12 @@
 - The neuroscientific investigations of basic CBT hypotheses have shown that:
 - (i) functional and non-functional behavior and experiences may be learned through lifelong learning, due to brain neuroplasticity that continues across the entire lifespan;
 - (ii) cognitive activity contributes to dysfunctional behavior and emotional experience through focusing, selective perception, memory and recall, and characteristic cognitive distortion; on a neurobiological level, there is a relationship between top-down and bottom-up regulation of unpleasant emotional states
-	- iii) cognitive activity may be changed, as shown by therapeutic success achieved by metacognitive and mindfulness techniques, which also have their neurobiological correlates in the changes occurring in the cortical and subcortical structures and endocrine and immune systems.
-- PCognitive-behavioral therapies (CBT) are short-term, collaborative, problem- focused therapeutic methods aimed at reducing symptoms and improving the quality of life of people with emotional disorders.
-- Page 2
-  Due to having been rigorously tested, CBT is now considered an empirically- supported treatment for a variety of disorders, such as anxiety disorders, mood disorders, learning difficulties, sexual problems, and bulimia nervosa (Butler, Chapman, Forman, & Beck, 2006; Tolin, 2010).
-- Page 2
+- iii) cognitive activity may be changed, as shown by therapeutic success achieved by metacognitive and mindfulness techniques, which also have their neurobiological correlates in the changes occurring in the cortical and subcortical structures and endocrine and immune systems.
+- Cognitive-behavioral therapies (CBT) are short-term, collaborative, problem- focused therapeutic methods aimed at reducing symptoms and improving the quality of life of people with emotional disorders.
+- Due to having been rigorously tested, CBT is now considered an empirically- supported treatment for a variety of disorders, such as anxiety disorders, mood disorders, learning difficulties, sexual problems, and bulimia nervosa (Butler, Chapman, Forman, & Beck, 2006; Tolin, 2010).
 - Cognitive-behavioral therapies combine two different theoretical and therapeutic approaches resulting from two different, but complementary paradigms of human nature and psychopathology.
-- Page 2
 - One is the behavioral paradigm, based on the learning theory and models of experimental psychology.
-- Page 2
 - Its basic idea is that every behavior, either adaptive or maladaptive, has been learned.
-- Page 2
 - The other is the cognitive paradigm, which claims that mental disorders arise from altered cognitive processes, i.e., specific errors in information processing (Jokić-Begić, 2008).
 - Page 2
 - There are a rapidly increasing proportion of studies using brain imaging methods to investigate cognitive functioning, emotional experience and self-regulation, psychopathological entities, pharmacotherapeutic and psychotherapeutic effects, placebo effect, and other phenomena traditionally studied within psychology and psychiatry.
