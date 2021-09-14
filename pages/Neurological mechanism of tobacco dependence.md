@@ -41,19 +41,12 @@
 	- Di Chiara and Imperato performed the seminal study showing that drugs abused by humans release DA in the **nucleus accumbens** of the rat brain (Di Chiara and Imperato 1988).
 	- The **nucleus accumbens** is a major input structure of the basal ganglia and integrates information from cortical and limbic structures to mediate goal-directed behaviors.
 	- Nicotine increases synaptic dopamine levels, and the dopamine binds to the D2/3 receptors which reduce the number of available binding sites for the radiotracers which also bind the D2/D3 receptors.
+	- The change in number of available receptors from the baseline scan to the scan after the drug challenge is an indirect measure of increased dopamine levels
 - **Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - Imaging Dopamine Release with PET**
--
-- 9
-- The change in number of available receptors from the baseline scan to the scan after the drug challenge is an indirect measure of increased dopamine levels
-- 9
-- Striatal dopamine release has been reliably measured using stimulants such as amphetamine or tobacco smoking with radiotracers such as [11C]raclopride PET or [123I]IBZM SPECT (see Laruelle 2000 for review).
-- short for corpus striatum.
-  9
+- Striatal (short for corpus striatum) dopamine release has been reliably measured using stimulants such as amphetamine or tobacco smoking with radiotracers such as [11C]raclopride PET or [123I]IBZM SPECT (see Laruelle 2000 for review).
 - For all of the dopaminergic radiotracers, drugs such as amphetamine robustly increase synaptic DA.
-- 9
 - Although nicotine is a less robust DA releaser compared to amphetamine, there are many studies that have examined nicotine and tobacco smoking-induced DA release in human subjects.
-  9
-  1 Imaging Tobacco Smoking with PET and SPECT - 4 Imaging the Comorbidity of Tobacco Smoking with Schizophrenia
+- Imaging the Comorbidity of Tobacco Smoking with Schizophrenia
 - 4 Imaging the Comorbidity of Tobacco Smoking with Schizophrenia
 - 13
   While approximately 20 % of the adult American population smokes cigarettes, the prevalence of tobacco smoking is up to 4 times higher in individuals with schizo- phrenia (see chapter entitled Psychiatric Disorders as Vulnerability Factors for Nicotine Add…
