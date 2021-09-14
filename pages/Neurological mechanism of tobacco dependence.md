@@ -47,20 +47,12 @@
 - For all of the dopaminergic radiotracers, drugs such as amphetamine robustly increase synaptic DA.
 - Although nicotine is a less robust DA releaser compared to amphetamine, there are many studies that have examined nicotine and tobacco smoking-induced DA release in human subjects.
 - Imaging the Comorbidity of Tobacco Smoking with Schizophrenia
-- 4 Imaging the Comorbidity of Tobacco Smoking with Schizophrenia
-- 13
-  While approximately 20 % of the adult American population smokes cigarettes, the prevalence of tobacco smoking is up to 4 times higher in individuals with schizo- phrenia (see chapter entitled Psychiatric Disorders as Vulnerability Factors for Nicotine Add…
-- 13
+- While approximately 20 % of the adult American population smokes cigarettes, the prevalence of tobacco smoking is up to 4 times higher in individuals with schizo- phrenia (see chapter entitled Psychiatric Disorders as Vulnerability Factors for Nicotine Add
 - Speciﬁcally, nonsmokers with and without schizophrenia had similar numbers of β2*-nAChRs; however, smokers with schizophrenia had lower numbers of β2*-nAChRs than healthy smokers (Breese et al. 2000).
-  13
-  1 Imaging Tobacco Smoking with PET and SPECT - References
-  We conﬁrmed the postmortem study and demonstrated that smokers with schizophrenia do have higher β2*-nAChR avail- ability than nonsmokers with schizophrenia; however, the difference was restricted to fewer regions than we have found in otherwise healthy smokers.
-- 14
+- We conﬁrmed the postmortem study and demonstrated that smokers with schizophrenia do have higher β2*-nAChR avail- ability than nonsmokers with schizophrenia; however, the difference was restricted to fewer regions than we have found in otherwise healthy smokers.
 - Critically, we found that smokers with schizophrenia who have lower β2*-nAChR availability report more negative symptoms and perform worse on tests of executive control.
-- 14
 - This is important because there are medications available to treat the positive symptoms of schizophrenia (e.g., hallucinations and delusions), but there are no effective medications for the negative symptoms (e.g., anhedonia and ﬂat affect) that signiﬁcantly impair quality of life.
-  14
-  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - Abstract
+- Behavioral Mechanisms Underlying Nicotine Reinforcement - Abstract
 - Behavioral Mechanisms Underlying Nicotine Reinforcement
 - We have hypothesized that nicotine has two effects on reinforcement; it increases the probability of responses resulting in nicotine delivery (primary reinforcement) and enhances the apparent reward value of non-nicotine reinforcers (reinforcement enhancing effect).
   19
