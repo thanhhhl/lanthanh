@@ -66,21 +66,13 @@
 	- If there were no external cues that were associated with nicotine delivery, then only the primary reinforcing action of nicotine would be present to support self-administration behavior.
 	- The bulk of the reinforcing actions of nicotine in typical self-administration procedures cannot be explained as primary reinforce- ment alone. The next section will begin to dissect the role of environmental cues and their importance for maintaining smoking behavior.
 	- **_Conditioned Responses to Nicotine-Associated Stimuli_**
-	- 32
 	- As a result of Pavlovian conditioning, stimuli paired with nicotine can elicit CRs (Pavlov 1927).
-	- 32
 	- A typical Pavlovian conditioning preparation involves an existing reﬂexive relationship between a stimulus (unconditioned stimulus, US) and response (unconditioned response, UR).
-	- 32
 	- In this case, nicotine (US) results in a wide range of behavioral and physiological changes (UR).
-	- 32
 	- Following one or more pairings, the originally neutral stimulus elicits a CR in the absence of the US and is now called a CS.
-	- 32
 	- In this case, any environmental stimulus that is consistently predictive of nicotine may come to serve as a CS and elicit a CR.
-	- 32
 	- In an operant procedure, the CS might be a light or a tone paired with nicotine delivery (provided the cue does not initially by itself elicit the response).
-	- 32
 	- In the context of cigarette smoking, the look or feel of a cigarette, the taste of tobacco, lighters, the cigarette pack, the smoking corner outside of the ofﬁce, the effects of alcohol, certain friend groups,
-	  32
 	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 4 Associative Learning and the Influence of Stimuli Predicting the Effects of Nicotine - 4.2 Nicotine-Associated Stimuli as Conditioned Reinforcers
 	- etc., might all function to elicit CRs, even in the absence of subsequent nicotine delivery, because they have previously been repeatedly paired with nicotine.
 	- 33
@@ -91,7 +83,7 @@
 	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 4 Associative Learning and the Influence of Stimuli Predicting the Effects of Nicotine - 4.3 Nicotine-Associated Contexts as Discriminative Stimuli
 	  …clinical experimental studies show that individuals who try to refrain from smoking are signiﬁcantly more likely to lapse regardless of the nicotine content of those cigarette; even cigarettes with very little nicotine increased the probability of relapse compared to not smoking (Juliano et al. 2006). These data indicate that interacting with smoking stimuli may precipitate smoking behavior during absti- nence…
 	- 34
-	- 4.3 Nicotine-Associated Contexts as Discriminative Stimuli
+	- 4.3 **_Nicotine-Associated Contexts as Discriminative Stimuli_**
 	  34
 	  2 Behavioral Mechanisms Underlying Nicotine Reinforcement - 4 Associative Learning and the Influence of Stimuli Predicting the Effects of Nicotine - 4.4 Individual Differences in Associative Learning Effects
 	  In two studies, smokers were asked to smoke cigarettes with very low nicotine contents. In a study con- ducted in an in-patient hospital unit, there was a decrease in smoking behavior when smokers switched to these low-nicotine cigarettes (Donny et al. 2007).
@@ -100,7 +92,7 @@
 	- 35
 	- It may have been easier for smokers to learn that smoking no longer resulted in nicotine delivery in a completely novel context than the natural environment in which smoking behavior had a long history of being reinforced across many contexts (Conklin 2010; Wray et al. 2011).
 	- 35
-	- 4.4 Individual Differences in Associative Learning Effects
+	- 4.4 **_Individual Differences in Associative Learning Effects_**
 	- 35
 	- Sex may be another determinant of cue effects.
 	- 35
