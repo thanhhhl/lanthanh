@@ -52,8 +52,7 @@
 		- We conﬁrmed the postmortem study and demonstrated that smokers with schizophrenia do have higher β2*-nAChR avail- ability than nonsmokers with schizophrenia; however, the difference was restricted to fewer regions than we have found in otherwise healthy smokers.
 		- Critically, we found that smokers with schizophrenia who have lower β2*-nAChR availability report more negative symptoms and perform worse on tests of executive control.
 		- This is important because there are medications available to treat the positive symptoms of schizophrenia (e.g., hallucinations and delusions), but there are no effective medications for the negative symptoms (e.g., anhedonia and ﬂat affect) that signiﬁcantly impair quality of life.
-- Behavioral Mechanisms Underlying Nicotine Reinforcement - Abstract
-- Behavioral Mechanisms Underlying Nicotine Reinforcement
+- **Behavioral Mechanisms Underlying Nicotine Reinforcement**
 - We have hypothesized that nicotine has two effects on reinforcement; it increases the probability of responses resulting in nicotine delivery (primary reinforcement) and enhances the apparent reward value of non-nicotine reinforcers (reinforcement enhancing effect).
   19
 - The behavioral actions of nicotine are complex and extend well beyond the actions of the drug as a primary reinforcer.
