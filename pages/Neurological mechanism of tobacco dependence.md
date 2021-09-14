@@ -28,24 +28,15 @@
 	- It is possible that nicotine replacement strategies may be effective because they continue to activate β2*-nAChRs. This leads to continued upregulation and the individual can “wean” the receptors off of nicotine as the dose of nicotine is decreased over time.
 - **Imaging beta 2*-Nicotinic Acetylcholine Receptors - Nicotine Occupancy of beta 2*-nAChRs**
 - In addition to receptor changes, imaging studies have informed our knowledge about what happens in the brain after someone smokes a cigarette. For example, after one puff of a cigarette, approximately 50 % of all β2*-nAChRs in the brain are occupied by nicotine. After smoking one or two cigarettes, the receptors are saturated, so up to 100 % of β2*-nAchRs are occupied by nicotine (Brody et al. 2006a; Esterlis et al. 2013).
-- 7
 - We know that nicotine doesn’t clear the brain immediately, and in fact dependent smokers have a slower process of nicotine accumulation going into the brain from a cigarette than do nondependent smokers (Rose et al. 2010).
-- 7
-  Both of these ideas—rapid accumulation and puff-associated spikes of nic- otine—had been proposed to explain the maintenance of tobacco dependence.
-- 7
+- Both of these ideas—rapid accumulation and puff-associated spikes of nic- otine—had been proposed to explain the maintenance of tobacco dependence.
 - So with a slow kinetic proﬁle and with most receptors in a smoker occupied by nicotine throughout the day, why do people keep smoking?
-- 7
 - People smoke for many different reasons, and nicotine reinforcement is only one component.
-- 7
 - The reinforcement or pleasure derived from nicotine, like many other drugs of abuse, is necessary in driving the initial phases of drug-seeking behavior.
-- 7
 - However, as the addiction progresses, many people may continue to smoke in order to avoid withdrawal symptoms and due to the many conditioned cues that have become ingrained, which are a part of the compulsive, repetitive nature of tobacco smoking.
-- 7
-  Thus, while nicotine is the primary addictive com- ponent of tobacco smoke, there are additional compounds such as MAO-A and MAO-B inhibitors that likely play a role.
-- 7
+- Thus, while nicotine is the primary addictive component of tobacco smoke, there are additional compounds such as MAO-A and MAO-B inhibitors that likely play a role.
 - Other imaging studies have demonstrated that even smoking a denicotinized cigarette, which supposedly has very low nicotine content, leads to occupancy of
-  7
-  1 Imaging Tobacco Smoking with PET and SPECT - 3 Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - 3.1 Preclinical Microdialysis Studies
+- 1 Imaging Tobacco Smoking with PET and SPECT - 3 Imaging Dopamine Release in Response to Nicotine and Tobacco Smoking - 3.1 Preclinical Microdialysis Studies
 - approximately 20 % of β2*-nAChRs in the brain (Brody et al. 2009).
 - 8
 - This is similar to the level of occupancy produced by secondhand smoke.
