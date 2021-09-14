@@ -9,8 +9,7 @@
 	- **The ventral tegmental area (VTA)** is a hub of the mesocorticolimbic circuitry that plays a significant role in reward, motivation, cognition, and aversion. Dopaminergic (DA) neurons, which make up 65% of neurons in the VTA, have been the primary focus of research into this brain region.
 	- Both β2*-nAChRs and DA signaling are critical neurosubstrates underlying tobacco smoking behaviors and dependence.
 	- In this chapter, we will review the imaging literature that has provided insights into the molecular mech- anisms of tobacco smoking with a focus on studies examining β2*-nAChR avail- ability and DA neurotransmission.
-- **Imaging beta 2*-Nicotinic Acetylcholine Receptors**
-- **Preclinical Studies**
+- **Imaging beta 2*-Nicotinic Acetylcholine Receptors - Preclinical Studies**
 - The nAChRs that contain the β2*-subunit are critical for mediating the effects of nicotine in the brain including the reinforcing effects (Picciotto et al. 1998), dopamine release (Epping-Jordan et al. 1999; Koranda et al. 2013), sensitivity to nicotine (Cosgrove et al. 2010; Marubio et al. 1999; Tritto et al. 2004), and the incentive aspects of motivation (Brunzell et al. 2010) (see chapter entitled The Role of Mesoaccumbens Dopamine in Nicotine Dependence; this volume).
 - 3
 - Preclinical studies administering nicotine at various doses and routes of administration to rats, mice, and monkeys—as well as postmortem human studies—have all indicated that nicotine and tobacco smoke result in signiﬁcantly more β2*-nAChRs throughout the brain compared to saline (animals) or to not smoking (humans).
@@ -18,7 +17,7 @@
   1 Imaging Tobacco Smoking with PET and SPECT - 2 Imaging beta 2*-Nicotinic Acetylcholine Receptors - 2.2 Imaging the Upregulation of beta 2*-nAChRs in Tobacco Smokers
   In order to help the subjects quit smoking, we used contingency man- agement techniques (Staley et al. 2006). In the ﬁrst paper, we demonstrated that tobacco smokers at 7–9 days of abstinence have signiﬁcantly higher β2*-nAChR availability in the cortex, striatum, and cerebellum compared to a group of age- and sex-matched nonsmokers (Fig. 2).
   4
-  1 Imaging Tobacco Smoking with PET and SPECT - 2 Imaging beta 2*-Nicotinic Acetylcholine Receptors - 2.3 Imaging the Normalization of beta 2*-nAChRs in Tobacco Smokers
+  Imaging beta 2*-Nicotinic Acetylcholine Receptors - Imaging the Normalization of beta 2*-nAChRs in Tobacco Smokers**
 - The postmortem study (Breese et al. 1997) indicated that smokers who had quit smoking at least two months prior to their death had β2*-nAChRs levels similar to controls.
 - 5
 - However, smokers in the study had quit anywhere from 2 months to 30 years prior to their death, so the study did not shed light on the acute time course of receptor changes (e.g., during acute withdrawal in the ﬁrst few months of abstinence, when relapse rates are high…
