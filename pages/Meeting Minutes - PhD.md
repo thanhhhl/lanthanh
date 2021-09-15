@@ -26,4 +26,25 @@
 	- Colleagues - Co
 	- All supervisors -  All
 	- Others - O
--
+- Meeting Minutes - PhD - PS - 14/09/21
+	- Project: Smoking Cessation
+	- Topic:
+	- Date:
+	- Time: 12-13
+	- Attendees:
+		- Thanh Hoang
+		- Nawi Ng
+		- Van Nguyen
+	- Agenda:
+		- Timeplan
+		- Q&A
+		- **Revision:**
+			- TH & VN's timeplans
+			- Registration
+		- **Actions:**
+			- TH shortens
+	- **Conclusion:**
+		-
+	- **Notes:**
+		-
+	- **Attachments:**
