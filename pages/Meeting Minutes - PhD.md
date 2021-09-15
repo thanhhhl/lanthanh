@@ -42,7 +42,11 @@
 			- TH & VN's timeplans
 			- Registration
 		- **Actions:**
-			- TH shortens
+			- TH shortens paper 1's period
+			- Prepare 7-min pptx for department introduction of  PhD project
+			- Early access for VN
+			- Contact Sophia for pptx template
+			- Thanh
 	- **Conclusion:**
 		-
 	- **Notes:**
