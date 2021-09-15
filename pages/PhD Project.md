@@ -8,6 +8,7 @@
 	- **[[Sex Differences in Nicotine Action]]** #gender #difference #[[Nicotine Psychopharmacology]]
 	- **[[Pharmacotherapy for Tobacco Dependence]]** #pharmacotherapy #NRT #[[Nicotine Psychopharmacology]]
 	- **[[Nicotine Psychopharmacology]]**  #nicotine #tobacco #pharmacology #[[Nicotine Psychopharmacology]]
+	- **[[Cognitive Behavioural Therapy and Neuroscience]]**
 - **Paper 1**
 - **Paper 2**
 - **Paper 3**
