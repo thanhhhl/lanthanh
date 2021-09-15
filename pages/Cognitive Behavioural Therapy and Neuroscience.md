@@ -22,4 +22,5 @@
 - It has also been established that learning accompanied by the development of new neuronal connections also leads to the development of new neurons (Gould, Beylin, Tanapat, Reeves, & Shors, 1999).
 - The impact of experience on neural and behavioral development depends on the timing, duration, and intensity of stimuli and biological vulnerability, resilience, potentiating risk factors, and protective effects (Gunnar & Fisher, 2006; Pollak, 2005).
 - Research in neurobiology of learning and memory suggests that, after each new learning event, there is a necessary and sufficient change in the nervous system that supports the learning (for review, see Kleim & Jones, 2008).
-- Although the cognitive-behavioral paradigm had been developed before the plasticity of the brain was discovered, the compatibility of principles resulting from neuroscientific research and those resulting from CBT theory and practice.
+- Although the cognitive-behavioral paradigm had been developed before the plasticity of the brain was discovered, the compatibility of principles resulting from neuroscientific research and those resulting from CBT theory and practice is quite evidence.
+-
