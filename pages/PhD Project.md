@@ -1,4 +1,4 @@
-- Literature
+- **Literature**
 	- Neuroscience basic: https://www.youtube.com/watch?v=5031rWXgdYo&t=1092s
 	- Nicotine neuroscience: https://www.youtube.com/watch?v=I02WbuLiivw https://www.youtube.com/watch?v=PqeEGpCQhBA
 	- CBT and neuroscience: http://www.sequentialpsychotherapy.com/assets/jokic_begic_n_cognitive_behavioral_therapy_and_neuroscience.pdf
@@ -8,8 +8,8 @@
 	- **[[Sex Differences in Nicotine Action]]** #gender #difference #[[Nicotine Psychopharmacology]]
 	- **[[Pharmacotherapy for Tobacco Dependence]]** #pharmacotherapy #NRT #[[Nicotine Psychopharmacology]]
 	- **[[Nicotine Psychopharmacology]]**  #nicotine #tobacco #pharmacology #[[Nicotine Psychopharmacology]]
-- Paper 1
-- Paper 2
-- Paper 3
-- Paper 4
-- Meetings
+- **Paper 1**
+- **Paper 2**
+- **Paper 3**
+- **Paper 4**
+- **Meetings**
