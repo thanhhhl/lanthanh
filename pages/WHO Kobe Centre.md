@@ -17,7 +17,8 @@
 				- graph map dot horizontal bar
 				- Kanya does map graphs
 				- option 2 -  stack horizontal bar chart for met and unmet need by country darker on the top, lighter in the bottom (lower prevalence)
-				- option 4
+				- Thanh does option 4 3 different hbar charts then combine
+				-
 			- **Conclusion:**
 				-
 			- **Notes:**
