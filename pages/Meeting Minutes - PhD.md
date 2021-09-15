@@ -28,6 +28,7 @@
 	- All supervisors -  All
 	- Others - O
 - Meeting Minutes - PhD - PS - 14/09/21
+  collapsed:: true
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
