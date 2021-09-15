@@ -1,6 +1,6 @@
-- **Meeting Minutes - PhD - code - dd/mm/yy**
-  template:: Meeting Minutes - PhD
+- Meeting Minutes - PhD - code - dd/mm/yy
   collapsed:: true
+  template:: Meeting Minutes - PhD
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
@@ -56,4 +56,29 @@
 		- **Notes:**
 			-
 		- **Attachments:**
--
+- **PAPER 2**
+	-
+	- Meeting Minutes - PhD - code - dd/mm/yy
+	  collapsed:: true
+		- Project: Smoking Cessation
+		- Topic:
+		- Date:
+		- Time:
+		- Attendees:
+			- TH
+			- NN
+			-
+		- Agenda:
+			-
+			- **Revision:**
+				-
+			- **Actions:**
+				-
+				  TODO
+		- **Conclusion:**
+			-
+		- **Notes:**
+			-
+		- **Attachments:**
+- **PAPER 3**
+- **PAPER 4**
