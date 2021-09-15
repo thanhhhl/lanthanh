@@ -11,7 +11,7 @@
 	- **[[Nicotine Psychopharmacology]]**  #nicotine #tobacco #pharmacology #[[Nicotine Psychopharmacology]]
 	- **[[Cognitive Behavioural Therapy and Neuroscience]]** #neuroscience  #healthbehaviour
 - **Paper 1** #paper1
-	- [[SR Protocol]]
+	- SR Protocol -
 - **Paper 2** #paper2
 - **Paper 3** #paper3
 - **Paper 4** #paper1
