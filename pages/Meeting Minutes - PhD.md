@@ -1,5 +1,6 @@
 - Meeting Minutes - PhD - code - dd/mm/yy
   template:: Meeting Minutes - PhD
+  collapsed:: true
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
@@ -27,6 +28,7 @@
 	- All supervisors -  All
 	- Others - O
 - Meeting Minutes - PhD - PS - 14/09/21
+  collapsed:: true
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
@@ -46,9 +48,10 @@
 			- Prepare 7-min pptx for department introduction of  PhD project
 			- Early access for VN
 			- Contact Sophia for pptx template
-			- Thanh
+			- Thanh takes initiatives in all PhD meetings
 	- **Conclusion:**
 		-
 	- **Notes:**
 		-
 	- **Attachments:**
+-
