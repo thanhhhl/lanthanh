@@ -1,4 +1,4 @@
-- Meeting Minutes - PhD - #
+- Meeting Minutes - PhD - code - dd/mm/yy
   collapsed:: true
   template:: Meeting Minutes - PhD
 	- Project: Smoking Cessation
@@ -27,7 +27,7 @@
 	- Colleagues - Co
 	- All supervisors -  All
 	- Others - O
-- Meeting Minutes - PhD - PS
+- Meeting Minutes - PhD - PS - 14/09/21
 	- Project:
 	- Topic:
 	- Date:
