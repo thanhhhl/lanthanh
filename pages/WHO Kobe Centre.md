@@ -18,7 +18,7 @@
 				- Kanya does map graphs
 				- Option 2 -  stack horizontal bar chart for met and unmet need by country darker on the top, lighter in the bottom (lower prevalence)
 				- Thanh does Option 4 3 different hbar charts then combine.
-				-
+				- unmet red met green
 			- **Conclusion:**
 				-
 			- **Notes:**
@@ -29,4 +29,5 @@
 					- 31 Oct 21 get reviews and revise graphs
 					- 10 Dec 21 final graphs to be submitted
 				- Another report of Paul than ADB and WKC
+				- Some countries have missing data
 			- **Attachments:**
