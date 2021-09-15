@@ -1,11 +1,13 @@
 - Meeting Minutes - PhD - #
+  collapsed:: true
   template:: Meeting Minutes - PhD
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
 	- Time:
 	- Attendees:
-		-
+		- Thanh Hoang
+		- Nawi Ng
 		-
 	- Agenda:
 		-
@@ -18,6 +20,9 @@
 		- Notes:
 			-
 		- Attachments:
+- Code for meetings:
+	- Principal Supervisor - PS
+	- C
 - Meeting Minutes - PhD - 1
 	- Project:
 	- Topic:
