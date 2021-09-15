@@ -5,10 +5,11 @@
 		- Date:
 		- Time: 2pm
 		- Attendees:
-			- Nawi Ng
-			-
+			- NN
+			- Kanya Anindya
+			- TH
 		- Agenda:
-			-
+			- Graphing
 			- Revision:
 				-
 			- Actions:

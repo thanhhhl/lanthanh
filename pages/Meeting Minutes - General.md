@@ -1,5 +1,4 @@
 - Meeting Minutes - Code - dd/mm/yy
-  collapsed:: true
   template:: Meeting Minutes - generall
 	- Project:
 	- Topic:
@@ -9,13 +8,13 @@
 		-
 	- Agenda:
 		-
-		- Revision:
+		- **Revision:**
 			-
-		- Actions:
+		- **Actions:**
 			-
-		- Conclusion:
+		- **Conclusion:**
 			-
-		- Notes:
+		- **Notes:**
 			-
 		- Attachments:
 - Code for meeting
