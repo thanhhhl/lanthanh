@@ -4,6 +4,9 @@
 	- CBT and neuroscience: http://www.sequentialpsychotherapy.com/assets/jokic_begic_n_cognitive_behavioral_therapy_and_neuroscience.pdf
 	- **[[Neurological mechanism of tobacco dependence]]** #tobacco #nicotine #dependence #neuroscience
 	- **[[Theory in health behaviour]]** #theory #healthbehaviour #chapter2 #book #karen
+	- **[[The Neuronal Pathways Mediating the Behavioural and Addictive Properties of Nicotine]]** #nicotine #addictive #behavioural #neuroscience #[[Nicotine Psychopharmacology]]
+	- **[[Sex Differences in Nicotine Action]]** #gender #difference #[[Nicotine Psychopharmacology]]
+	- **[[Pharmacotherapy for Tobacco Dependence]]** #pharmacotherapy #NRT #[[Nicotine Psychopharmacology]]
 - Paper 1
 - Paper 2
 - Paper 3
