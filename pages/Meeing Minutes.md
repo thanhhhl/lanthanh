@@ -17,5 +17,23 @@
 		- Notes:
 			-
 		- Attachments:
-		-
+-
 - Meeting Minutes - PhD - #
+  collapsed:: true
+	- Project:
+	- Topic:
+	- Date:
+	- Time:
+	- Attendees:
+		-
+	- Agenda:
+		-
+		- Revision:
+			-
+		- Actions:
+			-
+		- Conclusion:
+			-
+		- Notes:
+			-
+		- Attachments:
