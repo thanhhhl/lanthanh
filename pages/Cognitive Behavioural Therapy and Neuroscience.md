@@ -10,19 +10,19 @@
 - There are a rapidly increasing proportion of studies using brain imaging methods to investigate cognitive functioning, emotional experience and self-regulation, psychopathological entities, pharmacotherapeutic and psychotherapeutic effects, placebo effect, and other phenomena traditionally studied within psychology and psychiatry.
 - These studies are based on non-invasive brain imaging techniques, such as functional neuroimaging technologies of positron emission tomography (PET) and functional magnetic resonance imaging (fMRI).
 - **Life-long Learning**
-- The basic CBT hypothesis is that people can continue to learn throughout their lives.
-- Every behavior that is learned may be unlearned and replaced by other behavior that is more functional.
-- Both functional and dysfunctional behavior is learned.
-- CBT helps patients to learn and adopt new knowledge and skills, which will enable them to observe and change their own thoughts, behavior, and emotional states.
-- After a successful therapy, patients may be expected to be more functional and have better subjective quality of life.
-- Do these changes in behavior and attitude have a neurobiological basis?
-  Research has shown that cortical networks in the brain change, including synaptogenesis, neurogenesis (Bjorklund & Lindwall, 2000), and programmed cell death, as a result of one’s experience. The brain is characterized by neuroplasticity, or cortical remapping, which is a complex, multifaceted, and fundamental property of the living brain that allows it to adjust to the changes in environmental and physiological conditions and experience (Pascual- Leone, Amedi, Fregni, & Merabe, 2005)…
-- Individual connections within the brain are constantly being removed or recreated, which largely depends upon how they are used.
-- One of the key elements of the human brain’s ability to change through neuroplasticity is creation of interconnections between neurons based on their simultaneous firing over a period of time.
-- It has also been established that learning accompanied by the development of new neuronal connections also leads to the development of new neurons (Gould, Beylin, Tanapat, Reeves, & Shors, 1999).
-- The impact of experience on neural and behavioral development depends on the timing, duration, and intensity of stimuli and biological vulnerability, resilience, potentiating risk factors, and protective effects (Gunnar & Fisher, 2006; Pollak, 2005).
-- Research in neurobiology of learning and memory suggests that, after each new learning event, there is a necessary and sufficient change in the nervous system that supports the learning (for review, see Kleim & Jones, 2008).
-- Although the cognitive-behavioral paradigm had been developed before the plasticity of the brain was discovered, the compatibility of principles resulting from neuroscientific research and those resulting from CBT theory and practice is quite evidence.
+	- The basic CBT hypothesis is that people can continue to learn throughout their lives.
+	- Every behavior that is learned may be unlearned and replaced by other behavior that is more functional.
+	- Both functional and dysfunctional behavior is learned.
+	- CBT helps patients to learn and adopt new knowledge and skills, which will enable them to observe and change their own thoughts, behavior, and emotional states.
+	- After a successful therapy, patients may be expected to be more functional and have better subjective quality of life.
+	- **_Do these changes in behavior and attitude have a neurobiological basis?_**
+	- Research has shown that cortical networks in the brain change, including synaptogenesis, neurogenesis (Bjorklund & Lindwall, 2000), and programmed cell death, as a result of one’s experience. The brain is characterized by neuroplasticity, or cortical remapping, which is a complex, multifaceted, and fundamental property of the living brain that allows it to adjust to the changes in environmental and physiological conditions and experience (Pascual- Leone, Amedi, Fregni, & Merabe, 2005)…
+	- Individual connections within the brain are constantly being removed or recreated, which largely depends upon how they are used.
+	- One of the key elements of the human brain’s ability to change through neuroplasticity is creation of interconnections between neurons based on their simultaneous firing over a period of time.
+	- It has also been established that learning accompanied by the development of new neuronal connections also leads to the development of new neurons (Gould, Beylin, Tanapat, Reeves, & Shors, 1999).
+	- The impact of experience on neural and behavioral development depends on the timing, duration, and intensity of stimuli and biological vulnerability, resilience, potentiating risk factors, and protective effects (Gunnar & Fisher, 2006; Pollak, 2005).
+	- Research in neurobiology of learning and memory suggests that, after each new learning event, there is a necessary and sufficient change in the nervous system that supports the learning (for review, see Kleim & Jones, 2008).
+	- Although the cognitive-behavioral paradigm had been developed before the plasticity of the brain was discovered, the compatibility of principles resulting from neuroscientific research and those resulting from CBT theory and practice is quite evidence.
 - **Cognitive Regulation of Emotions and Behaviour**
 	- Cognitive therapy does not assume that cognitions cause mental disorders, but they play an important role in the development of disorders, assessment of social support, and recovery from the disorder (Živčić-Bećirević, 2003).
 	- Changing cognitive activity will lead to changes in emotional response and then in the behavior. During CBT, a patient learns how to self-regulate unpleasant emotions, which is essential for mental health (Beauregard, 2007).
