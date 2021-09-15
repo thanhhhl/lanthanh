@@ -11,9 +11,9 @@
 		- Agenda:
 			- Graphing
 			- **Revision:**
-				-
+				- Give M final products on option 1, 3 ,4
 			- **Actions:**
-				- TODO sample of map dot horizontal bar
+				- TODO do graph map dot horizontal bar
 			- **Conclusion:**
 				-
 			- **Notes:**
