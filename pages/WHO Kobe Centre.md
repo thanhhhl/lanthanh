@@ -13,8 +13,7 @@
 			- **Revision:**
 				-
 			- **Actions:**
-				-
-				  TODO
+				- TODO sample of map dot horizontal bar
 			- **Conclusion:**
 				-
 			- **Notes:**
