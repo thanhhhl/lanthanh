@@ -57,7 +57,28 @@
 			-
 		- **Attachments:**
 - **PAPER 2**
-	-
+	- Meeting Minutes - PhD - code - dd/mm/yy
+		- Project: Smoking Cessation
+		- Topic:
+		- Date:
+		- Time:
+		- Attendees:
+			- TH
+			- NN
+			-
+		- Agenda:
+			-
+			- **Revision:**
+				-
+			- **Actions:**
+				-
+				  TODO
+		- **Conclusion:**
+			-
+		- **Notes:**
+			-
+		- **Attachments:**
+- **PAPER 3**
 	- Meeting Minutes - PhD - code - dd/mm/yy
 	  collapsed:: true
 		- Project: Smoking Cessation
@@ -80,5 +101,26 @@
 		- **Notes:**
 			-
 		- **Attachments:**
-- **PAPER 3**
 - **PAPER 4**
+	- Meeting Minutes - PhD - code - dd/mm/yy
+	  collapsed:: true
+		- Project: Smoking Cessation
+		- Topic:
+		- Date:
+		- Time:
+		- Attendees:
+			- TH
+			- NN
+			-
+		- Agenda:
+			-
+			- **Revision:**
+				-
+			- **Actions:**
+				-
+				  TODO
+		- **Conclusion:**
+			-
+		- **Notes:**
+			-
+		- **Attachments:**
