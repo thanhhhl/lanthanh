@@ -1,5 +1,6 @@
 - Meeting Minutes - #
   template:: Meeting Minutes - generall
+  collapsed:: true
 	- Project:
 	- Topic:
 	- Date:
@@ -20,6 +21,7 @@
 -
 - Meeting Minutes - PhD - #
   collapsed:: true
+  template:: Meeting Minutes - PhD
 	- Project:
 	- Topic:
 	- Date:
