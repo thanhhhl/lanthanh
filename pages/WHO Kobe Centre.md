@@ -17,7 +17,7 @@
 			- Graphing
 			- **Revision:**
 				- Give M final products on option 1, 3 ,4
-				- M's comment in option 1
+				- M's comment in option 1 - see attachment
 			- **Actions:**
 				- Graph map dot horizontal bar
 				- Kanya does map graphs
