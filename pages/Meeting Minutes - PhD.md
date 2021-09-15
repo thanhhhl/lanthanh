@@ -22,7 +22,10 @@
 		- Attachments:
 - Code for meetings:
 	- Principal Supervisor - PS
-	- C
+	- Co-supervisor - CS
+	- Colleagues - Co
+	- All supervisors -  All
+	- Other
 - Meeting Minutes - PhD - 1
 	- Project:
 	- Topic:
