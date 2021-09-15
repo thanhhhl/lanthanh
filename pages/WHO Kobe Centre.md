@@ -4,7 +4,7 @@
 	- Deliverable 1
 		- [APW 2021-1153170 Deliverable 1 (Due 8 Sep 2021).docx](../assets/APW_202021-1153170_20Deliverable_201_20(Due_208_20Sep_202021)_1631710851746_0.docx)
 - **Meetings** [Zoom ](https://gu- se.zoom.us/j/68182965770#success)
-	- Meeting Minutes - WK - 15/09/21
+	- Meeting Minutes - WK - [[Sep 15th, 2021]] 15/09/21
 		- Project: WKC
 		- Topic: International health transition
 		- Date:
@@ -22,7 +22,7 @@
 				- Graph map dot horizontal bar
 				- Kanya does map graphs
 				- Option 2 -  stack horizontal bar chart for met and unmet need by country darker on the top, lighter in the bottom (lower prevalence)
-				- Thanh does Option 4
+				- TODO Thanh does Option 4
 					- 3 different hbar charts then combine
 					- if the data does not reach 100%, plot only met/unmet)
 					- unmet red met green
