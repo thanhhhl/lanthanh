@@ -1,0 +1,21 @@
+- Meeting Minutes - #
+  template:: Meeting Minutes - generall
+  collapsed:: true
+	- Project:
+	- Topic:
+	- Date:
+	- Time:
+	- Attendees:
+		-
+	- Agenda:
+		-
+		- Revision:
+			-
+		- Actions:
+			-
+		- Conclusion:
+			-
+		- Notes:
+			-
+		- Attachments:
+-
