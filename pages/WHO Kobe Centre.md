@@ -33,4 +33,6 @@
 				- Another report of Paul than ADB and WKC
 				- Some countries have missing data
 			- **Attachments:**
-				- ![Screenshot 2021-09-15 at 14.33.49.png](../assets/Screenshot_202021-09-15_20at_2014.33.49_1631710507027_0.png)
+				- ![Screenshot 2021-09-15 at 14.33.49.png](../assets/Screenshot_202021-09-15_20at_2014.33.49_1631710526492_0.png)
+				- ![Screenshot 2021-09-15 at 14.18.57.png](../assets/Screenshot_202021-09-15_20at_2014.18.57_1631710519808_0.png)
+				- ![Screenshot 2021-09-15 at 14.16.32.png](../assets/Screenshot_202021-09-15_20at_2014.16.32_1631710554424_0.png){:height 230, :width 355}
