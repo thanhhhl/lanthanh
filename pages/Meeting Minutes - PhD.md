@@ -21,12 +21,13 @@
 			-
 		- Attachments:
 - Code for meetings:
+  collapsed:: true
 	- Principal Supervisor - PS
 	- Co-supervisor - CS
 	- Colleagues - Co
 	- All supervisors -  All
-	- Other
-- Meeting Minutes - PhD - 1
+	- Others - O
+- Meeting Minutes - PhD - PS
 	- Project:
 	- Topic:
 	- Date:
