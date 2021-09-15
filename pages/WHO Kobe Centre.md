@@ -15,7 +15,7 @@
 				- M's comment in option 1
 			- **Actions:**
 				- graph map dot horizontal bar
-				-
+				- Kanya does map graphs
 				- option 2 -  stack horizontal bar chart for met and unmet need by country
 			- **Conclusion:**
 				-
