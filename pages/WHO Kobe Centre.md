@@ -12,6 +12,7 @@
 			- Graphing
 			- **Revision:**
 				- Give M final products on option 1, 3 ,4
+				- M's comment in option 1
 			- **Actions:**
 				- TODO do graph map dot horizontal bar
 			- **Conclusion:**
