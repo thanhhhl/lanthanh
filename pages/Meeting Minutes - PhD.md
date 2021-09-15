@@ -28,7 +28,7 @@
 	- Colleagues - Co
 	- All supervisors -  All
 	- Others - O
-- **Meeting Minutes - PhD - PS - 14/09/21**
+- **PAPER 1 **- **Meeting Minutes - PhD - PS - 14/09/21**
   collapsed:: true
 	- Project: Smoking Cessation
 	- Topic: Paper 1
