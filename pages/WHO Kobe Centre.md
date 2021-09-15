@@ -14,10 +14,10 @@
 				- Give M final products on option 1, 3 ,4
 				- M's comment in option 1
 			- **Actions:**
-				- graph map dot horizontal bar
+				- Graph map dot horizontal bar
 				- Kanya does map graphs
-				- option 2 -  stack horizontal bar chart for met and unmet need by country darker on the top, lighter in the bottom (lower prevalence)
-				- Thanh does option 4 3 different hbar charts then combine.
+				- Option 2 -  stack horizontal bar chart for met and unmet need by country darker on the top, lighter in the bottom (lower prevalence)
+				- Thanh does Option 4 3 different hbar charts then combine.
 				-
 			- **Conclusion:**
 				-
