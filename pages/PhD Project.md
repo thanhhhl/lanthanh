@@ -1,4 +1,9 @@
 - Literature
+	- Neuroscience basic: https://www.youtube.com/watch?v=5031rWXgdYo&t=1092s
+	- Nicotine neuroscience: https://www.youtube.com/watch?v=I02WbuLiivw https://www.youtube.com/watch?v=PqeEGpCQhBA
+	- CBT and neuroscience: http://www.sequentialpsychotherapy.com/assets/jokic_begic_n_cognitive_behavioral_therapy_and_neuroscience.pdf
+	- **[[Neurological mechanism of tobacco dependence]]** #tobacco #nicotine #dependence #neuroscience
+	- **[[Theory in health behaviour]]** #theory #healthbehaviour #chapter2 #book #karen
 - Paper 1
 - Paper 2
 - Paper 3
