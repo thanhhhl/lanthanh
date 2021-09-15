@@ -1,0 +1,3 @@
+- **[[The 12th Northern European Stata Conference]]**
+- **[[Measurement of UHC index]]**
+	- Link: https://www.hfgproject.org/wp-content/uploads/2015/02/Indicators-for-Measuring-Universal-Health-Coverage-A-Five-Country-Analysis-DRAFT.pdf

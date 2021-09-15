@@ -69,7 +69,7 @@
 	- Pipe smokers, particularly those who have previously smoked cigarettes, may have blood and urine levels of nicotine and cotinine as high as cigarette smokers (McCusker et al. 1982; Wald et al. 1981).
 	- Likewise, **cigar smokers who have previously smoked cigarettes may inhale more deeply and achieve higher blood levels of nicotine than primary cigar smokers,** although on average, based on urinary cotinine levels, daily nicotine intake appears to be less for cigar smokers compared with cigarette or pipe smokers (Wald et al. 1984).
 - ![IMG_0293.jpg](../assets/IMG_0293_1631263468479_0.jpg)
-- **Biomarkers of Nicotine Exposure** #biomarker
+- **Biomarkers of Nicotine Exposure** #[[Nicotine biomarker]]
 	- Biomarkers are desirable for quantifying the systemic exposure of smokers to toxic constituents of smoke derived from tobacco use or from potential reduced harm products.
 	- Measures such as cigarettes per day are imprecise indicators of tobacco smoke exposure because of variability in how smokers smoke their cigarettes.
 	- There is considerable individual variability in smoke intake, even by people smoking the same brand of cigarettes (USDHHS 2001).
