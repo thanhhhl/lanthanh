@@ -28,7 +28,7 @@
 	- Colleagues - Co
 	- All supervisors -  All
 	- Others - O
-- **PAPER 1 **- **Meeting Minutes - PhD - PS - 14/09/21**
+- **PAPER 1** - **Meeting Minutes - PhD - PS - 14/09/21**
   collapsed:: true
 	- Project: Smoking Cessation
 	- Topic: Paper 1
@@ -55,4 +55,24 @@
 	- **Notes:**
 		-
 	- **Attachments:**
--
+- **PAPER 2** - **Meeting Minutes - PhD - code - dd/mm/yy**
+	- Project: Smoking Cessation
+	- Topic:
+	- Date:
+	- Time:
+	- Attendees:
+		- TH
+		- NN
+		-
+	- Agenda:
+		-
+		- **Revision:**
+			-
+		- **Actions:**
+			-
+			  TODO
+	- **Conclusion:**
+		-
+	- **Notes:**
+		-
+	- **Attachments:**
