@@ -17,6 +17,3 @@
 		- Notes:
 			-
 		- Attachments:
--
--
-  template:: Meeting Minutes
