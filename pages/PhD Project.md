@@ -7,6 +7,7 @@
 	- **[[The Neuronal Pathways Mediating the Behavioural and Addictive Properties of Nicotine]]** #nicotine #addictive #behavioural #neuroscience #[[Nicotine Psychopharmacology]]
 	- **[[Sex Differences in Nicotine Action]]** #gender #difference #[[Nicotine Psychopharmacology]]
 	- **[[Pharmacotherapy for Tobacco Dependence]]** #pharmacotherapy #NRT #[[Nicotine Psychopharmacology]]
+	- **[[Nicotine Psychopharmacology]]**  #nicotine #tobacco #pharmacology #[[Nicotine Psychopharmacology]]
 - Paper 1
 - Paper 2
 - Paper 3
