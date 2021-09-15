@@ -12,5 +12,4 @@
 - **Paper 2**
 - **Paper 3**
 - **Paper 4**
-- **Meetings**
-	- [[Meeting Minutes - PhD]]
+- **Meetings** [[Meeting Minutes - PhD]]

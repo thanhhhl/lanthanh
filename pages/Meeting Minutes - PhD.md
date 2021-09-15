@@ -30,7 +30,7 @@
 - Meeting Minutes - PhD - PS - 14/09/21
   collapsed:: true
 	- Project: Smoking Cessation
-	- Topic:
+	- Topic: Paper 1
 	- Date:
 	- Time: 12-13
 	- Attendees:
