@@ -12,7 +12,7 @@
 	- **[[Cognitive Behavioural Therapy and Neuroscience]]** #neuroscience  #healthbehaviour
 - **Paper 1** #paper1
 	- [SR Protocol ](https://docs.google.com/document/d/1BWJpr0SKNqSSv_QnB_xje6PTtHh3kF2L/edit?usp=sharing&ouid=103990177776506026894&rtpof=true&sd=true)
-	-
+	- [Paper draft](https://docs.google.com/document/d/1YS_ZbEtD4G6nF2SHYcgMS0IHzyLMiKsX/edit?usp=sharing&ouid=103990177776506026894&rtpof=true&sd=true)
 - **Paper 2** #paper2
 - **Paper 3** #paper3
 - **Paper 4** #paper1
