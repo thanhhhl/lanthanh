@@ -28,30 +28,32 @@
 	- Colleagues - Co
 	- All supervisors -  All
 	- Others - O
-- **Meeting Minutes - PhD - PS - 14/09/21**
-	- Project: Smoking Cessation
-	- Topic: Paper 1
-	- Date:
-	- Time: 12-13
-	- Attendees:
-		- Thanh Hoang
-		- Nawi Ng
-		- Van Nguyen
-	- Agenda:
-		- Timeplan
-		- Q&A
-		- **Revision:**
-			- TH & VN's timeplans
-			- Registration
-		- **Actions:**
-			- TH shortens paper 1's period
-			- Prepare 7-min pptx for department introduction of  PhD project
-			- Early access for VN
-			- Contact Sophia for pptx template
-			- Thanh takes initiatives in all PhD meetings
-	- **Conclusion:**
-		-
-	- **Notes:**
-		-
-	- **Attachments:**
+- **PAPER 1**
+	- Meeting Minutes - PhD - PS - 14/09/21
+	  collapsed:: true
+		- Project: Smoking Cessation
+		- Topic: Paper 1
+		- Date:
+		- Time: 12-13
+		- Attendees:
+			- Thanh Hoang
+			- Nawi Ng
+			- Van Nguyen
+		- Agenda:
+			- Timeplan
+			- Q&A
+			- **Revision:**
+				- TH & VN's timeplans
+				- Registration
+			- **Actions:**
+				- TH shortens paper 1's period
+				- Prepare 7-min pptx for department introduction of  PhD project
+				- Early access for VN
+				- Contact Sophia for pptx template
+				- Thanh takes initiatives in all PhD meetings
+		- **Conclusion:**
+			-
+		- **Notes:**
+			-
+		- **Attachments:**
 -
