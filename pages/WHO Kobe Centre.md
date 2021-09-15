@@ -21,7 +21,7 @@
 				- PI - Dr Megumi
 				- Deadline
 					- 22 Sep 21 options for visualisations
-					- 6 Oct 21
-					- 31 Oct 21
-					- 10 Dec 21
+					- 6 Oct 21 actual graphs
+					- 31 Oct 21 get reviews and revise graphs
+					- 10 Dec 21 final graphs to be submitted
 			- **Attachments:**
