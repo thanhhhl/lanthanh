@@ -1,0 +1,20 @@
+- **Meetings**
+	- Meeting Minutes - Code - dd/mm/yy
+	  collapsed:: true
+		- Project:
+		- Topic:
+		- Date:
+		- Time:
+		- Attendees:
+			-
+		- Agenda:
+			-
+			- Revision:
+				-
+			- Actions:
+				-
+			- Conclusion:
+				-
+			- Notes:
+				-
+			- Attachments:
