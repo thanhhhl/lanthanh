@@ -1,5 +1,5 @@
-- [[Meeting Minutes]]
-  collapsed:: true
+collapsed:: true
+
 	- Project:
 	- Topic:
 	- Date:
