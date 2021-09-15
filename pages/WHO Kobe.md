@@ -1,21 +1,19 @@
 - **Meetings**
-	- Meeting Minutes - 1 - 15/09/21
-		- Project: WHO Kobe
+	- Meeting Minutes - WK - dd/mm/yy
+		- Project:
 		- Topic:
 		- Date:
-		- Time: 2pm
+		- Time:
 		- Attendees:
-			- NN
-			- Kanya Anindya
-			- TH
+			-
 		- Agenda:
-			- Graphing
-			- Revision:
+			-
+			- **Revision:**
 				-
-			- Actions:
+			- **Actions:**
 				-
-			- Conclusion:
+			- **Conclusion:**
 				-
-			- Notes:
+			- **Notes:**
 				-
-			- Attachments:
+			- **Attachments:**
