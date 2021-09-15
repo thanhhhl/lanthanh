@@ -1,4 +1,6 @@
-- Meeting Minutes
+- Meeting Minutes - #
+  collapsed:: true
+  template:: Meeting Minutes - generall
 	- Project:
 	- Topic:
 	- Date:
@@ -16,3 +18,5 @@
 		- Notes:
 			-
 		- Attachments:
+- Meeting Minutes - #
+  template:: Meeting Minutes - PhD
