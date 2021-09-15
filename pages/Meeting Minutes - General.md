@@ -20,5 +20,5 @@
 			-
 		- **Attachments:**
 - Code for meeting
-	- ADB - Asian Devel
+	- ADB - [[Asian Development Bank]]
 	- WKC - [[WHO Kobe Centre]]

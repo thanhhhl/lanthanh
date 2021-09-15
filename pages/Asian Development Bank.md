@@ -1,0 +1,41 @@
+- **Data & Do-file**
+- **Products**
+- **Meetings**
+	- Meeting Minutes - WKC - [[Sep 15th, 2021]]
+	  collapsed:: true
+		- Project: WKC
+		- Topic: International health transition
+		- Date: [[Sep 15th, 2021]]
+		- Time: 2pm
+		- Attendees:
+			- NN
+	- TH
+	- Kanya Anindya
+		- Agenda:
+	- Graphing
+	- **Revision:**
+		- Give M final products on option 1, 3 ,4
+		- M's comment in option 1 - see attachment
+	- **Actions:**
+		- Graph map dot horizontal bar
+		- Kanya does map graphs
+		- Option 2 -  stack horizontal bar chart for met and unmet need by country darker on the top, lighter in the bottom (lower prevalence)
+		- TODO Thanh does Option 4
+			- 3 different hbar charts then combine
+			- if the data does not reach 100%, plot only met/unmet)
+			- unmet red met green
+	- **Conclusion:**
+		-
+	- **Notes:**
+		- PI - Dr Megumi
+		- Deadline
+	- 22 Sep 21 options for visualisations
+	- 6 Oct 21 actual graphs
+	- 31 Oct 21 get reviews and revise graphs
+	- 10 Dec 21 final graphs to be submitted
+		- Another report of Paul than ADB and WKC
+		- Some countries have missing data
+	- **Attachments:**
+		- ![Screenshot 2021-09-15 at 14.33.49.png](../assets/Screenshot_202021-09-15_20at_2014.33.49_1631716136767_0.png){:height 393, :width 616}
+		- ![Screenshot 2021-09-15 at 14.18.57.png](../assets/Screenshot_202021-09-15_20at_2014.18.57_1631716153281_0.png)
+		- ![Screenshot 2021-09-15 at 14.16.32.png](../assets/Screenshot_202021-09-15_20at_2014.16.32_1631711501013_0.png)
