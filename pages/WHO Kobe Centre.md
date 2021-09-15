@@ -14,7 +14,9 @@
 				- Give M final products on option 1, 3 ,4
 				- M's comment in option 1
 			- **Actions:**
-				- TODO do graph map dot horizontal bar
+				- graph map dot horizontal bar
+				-
+				- option 2 -  stack horizontal bar chart for met and unmet need by country
 			- **Conclusion:**
 				-
 			- **Notes:**
