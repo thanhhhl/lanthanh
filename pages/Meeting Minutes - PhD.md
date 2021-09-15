@@ -1,13 +1,12 @@
 - Meeting Minutes - PhD - code - dd/mm/yy
   template:: Meeting Minutes - PhD
-  collapsed:: true
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
 	- Time:
 	- Attendees:
-		- Thanh Hoang
-		- Nawi Ng
+		- TH
+		- NN
 		-
 	- Agenda:
 		-
