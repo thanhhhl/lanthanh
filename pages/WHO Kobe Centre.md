@@ -1,7 +1,7 @@
 - **Meetings** [Zoom ](https://gu-se.zoom.us/j/68182965770#success)
 	- Meeting Minutes - WK - 15/09/21
-		- Project: WK
-		- Topic:
+		- Project: WKC
+		- Topic: International health transition
 		- Date:
 		- Time: 2pm
 		- Attendees:
@@ -18,5 +18,5 @@
 			- **Conclusion:**
 				-
 			- **Notes:**
-				-
+				- PI - Dr Megumi
 			- **Attachments:**
