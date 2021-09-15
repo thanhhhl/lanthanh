@@ -1,5 +1,6 @@
-- Meeting Minutes - PhD - code - dd/mm/yy
+- **Meeting Minutes - PhD - code - dd/mm/yy**
   template:: Meeting Minutes - PhD
+  collapsed:: true
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
@@ -20,14 +21,15 @@
 		- **Notes:**
 			-
 		- **Attachments:**
-- Code for meetings:
+- **Code for meetings:**
   collapsed:: true
 	- Principal Supervisor - PS
 	- Co-supervisor - CS
 	- Colleagues - Co
 	- All supervisors -  All
 	- Others - O
-- Meeting Minutes - PhD - PS - 14/09/21
+- **Meeting Minutes - PhD - PS - 14/09/21**
+  collapsed:: true
 	- Project: Smoking Cessation
 	- Topic: Paper 1
 	- Date:
