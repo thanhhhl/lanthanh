@@ -1,6 +1,6 @@
-- Meeting Minutes - #
-  template:: Meeting Minutes - generall
+- Meeting Minutes - Code - dd/mm/yy
   collapsed:: true
+  template:: Meeting Minutes - generall
 	- Project:
 	- Topic:
 	- Date:
@@ -18,4 +18,5 @@
 		- Notes:
 			-
 		- Attachments:
--
+- Code for meeting
+	-
