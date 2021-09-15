@@ -1,5 +1,6 @@
 - Meeting Minutes - Code - dd/mm/yy
   template:: Meeting Minutes - generall
+  collapsed:: true
 	- Project:
 	- Topic:
 	- Date:
@@ -20,4 +21,4 @@
 		- **Attachments:**
 - Code for meeting
 	- ADB - Paul's project
-	- WK - WHO Kobe
+	- WKC - WHO Kobe Centre
