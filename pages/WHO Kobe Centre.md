@@ -4,10 +4,10 @@
 	- Deliverable 1
 		- [APW 2021-1153170 Deliverable 1 (Due 8 Sep 2021).docx](../assets/APW_202021-1153170_20Deliverable_201_20(Due_208_20Sep_202021)_1631710851746_0.docx)
 - **Meetings** [Zoom ](https://gu- se.zoom.us/j/68182965770#success)
-	- Meeting Minutes - WK - [[Sep 15th, 2021]] 15/09/21
+	- Meeting Minutes - WK - [[Sep 15th, 2021]]
 		- Project: WKC
 		- Topic: International health transition
-		- Date:
+		- Date: [[Sep 15th, 2021]]
 		- Time: 2pm
 		- Attendees:
 			- NN
