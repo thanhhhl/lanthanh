@@ -1,11 +1,11 @@
 - **Meetings**
-	- Meeting Minutes - Code - dd/mm/yy
-	  collapsed:: true
-		- Project:
+	- Meeting Minutes - 1 - 15/09/21
+		- Project: WHO Kobe
 		- Topic:
 		- Date:
-		- Time:
+		- Time: 2pm
 		- Attendees:
+			- Nawi Ng
 			-
 		- Agenda:
 			-
