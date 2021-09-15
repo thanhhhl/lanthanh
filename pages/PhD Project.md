@@ -11,8 +11,9 @@
 	- **[[Nicotine Psychopharmacology]]**  #nicotine #tobacco #pharmacology #[[Nicotine Psychopharmacology]]
 	- **[[Cognitive Behavioural Therapy and Neuroscience]]** #neuroscience  #healthbehaviour
 - **Paper 1** #paper1
-	- [SR Protocol ](https://docs.google.com/document/d/1BWJpr0SKNqSSv_QnB_xje6PTtHh3kF2L/edit?usp=sharing&ouid=103990177776506026894&rtpof=true&sd=true)
-	- [MPH Thesis - Thanh Hoang (clean version).docx](../assets/MPH_20Thesis_20-_20Thanh_20Hoang_20(clean_20version)_1631703753840_0.docx)
+	- Systematic review protocol - [Paper 1 Protocol.docx](../assets/Paper_201_20Protocol_1631703808603_0.docx)
+	- Paper draft - [MPH Thesis - Thanh Hoang (clean version).docx](../assets/MPH_20Thesis_20-_20Thanh_20Hoang_20(clean_20version)_1631703753840_0.docx)
+	-
 - **Paper 2** #paper2
 - **Paper 3** #paper3
 - **Paper 4** #paper1
