@@ -20,5 +20,5 @@
 			-
 		- **Attachments:**
 - Code for meeting
-	- ADB - Paul's project
-	- WKC - WHO Kobe Centre
+	- ADB - Asian Devel
+	- WKC - [[WHO Kobe Centre]]
