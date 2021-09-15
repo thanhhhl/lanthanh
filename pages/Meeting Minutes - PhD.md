@@ -1,6 +1,6 @@
 - Meeting Minutes - PhD - code - dd/mm/yy
-  collapsed:: true
   template:: Meeting Minutes - PhD
+  collapsed:: true
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
@@ -28,12 +28,14 @@
 	- All supervisors -  All
 	- Others - O
 - Meeting Minutes - PhD - PS - 14/09/21
-	- Project:
+	- Project: Smoking Cessation
 	- Topic:
 	- Date:
-	- Time:
+	- Time: 12-13
 	- Attendees:
-		-
+		- Thanh Hoang
+		- Nawi Ng
+		- Van Nguyen
 	- Agenda:
 		-
 		- Revision:
