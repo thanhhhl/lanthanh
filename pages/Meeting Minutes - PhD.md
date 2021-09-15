@@ -1,11 +1,11 @@
 - Meeting Minutes - PhD - #
-  collapsed:: true
   template:: Meeting Minutes - PhD
-	- Project:
+	- Project: Smoking Cessation
 	- Topic:
 	- Date:
 	- Time:
 	- Attendees:
+		-
 		-
 	- Agenda:
 		-
@@ -18,3 +18,21 @@
 		- Notes:
 			-
 		- Attachments:
+- Meeting Minutes - PhD - 1
+	- Project:
+	- Topic:
+	- Date:
+	- Time:
+	- Attendees:
+		-
+	- Agenda:
+		-
+		- Revision:
+			-
+		- Actions:
+			-
+	- Conclusion:
+		-
+	- Notes:
+		-
+	- Attachments:
