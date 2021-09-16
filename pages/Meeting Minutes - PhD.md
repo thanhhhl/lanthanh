@@ -56,18 +56,24 @@
 		- **Notes:**
 			-
 		- **Attachments:**
-	- Meeting Minutes - PhD - All - dd/mm/yy
-	  collapsed:: true
+	- Meeting Minutes - PhD - All - [[Sep 21st, 2021]]
 		- Project: Smoking Cessation
 		- Topic:
 		- Date:
 		- Time:
 		- Attendees:
+		  collapsed:: true
 			- TH
 			- NN
-			-
+			- LA
+			- GGA
+			- DS
 		- Agenda:
-			-
+			- Timeplan
+			- Progression
+			- Quick view of protocol (table of search strategy)
+			- Preliminary search results
+			- Q&A and Feedbacks
 			- **Revision:**
 				-
 			- **Actions:**
