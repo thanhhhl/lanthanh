@@ -1,6 +1,7 @@
+- [[PhD Project]]
 - Meeting Minutes - PhD - code - dd/mm/yy
-  template:: Meeting Minutes - PhD
   collapsed:: true
+  template:: Meeting Minutes - PhD
 	- Project: Smoking Cessation
 	- Topic:
 	- Date:
@@ -57,6 +58,7 @@
 			-
 		- **Attachments:**
 	- Meeting Minutes - PhD - All - [[Sep 21st, 2021]]
+	  collapsed:: true
 		- Project: Smoking Cessation
 		- Topic:
 		- Date:

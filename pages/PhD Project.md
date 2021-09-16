@@ -13,6 +13,7 @@
 - **Paper 1** #paper1
 	- **Meetings** [[Meeting Minutes - PhD]]
 		- Supervision meeting on [[Sep 21st, 2021]]
+		  collapsed:: true
 			- Timeplan
 			- Progression
 			- Quick view of protocol (table of search strategy)
