@@ -9,6 +9,7 @@
 	- **[[Pharmacotherapy for Tobacco Dependence]]** #pharmacotherapy #NRT #[[Nicotine Psychopharmacology]]
 	- **[[Nicotine Psychopharmacology]]**  #nicotine #tobacco #pharmacology #[[Nicotine Psychopharmacology]]
 	- **[[Cognitive Behavioural Therapy and Neuroscience]]** #neuroscience  #healthbehaviour
+	- Content analysis
 - **Paper 1** #paper1
 	- **Meetings** [[Meeting Minutes - PhD]]
 		- Supervision meeting on [[Sep 21st, 2021]]
