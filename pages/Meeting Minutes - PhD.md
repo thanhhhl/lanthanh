@@ -29,7 +29,7 @@
 	- All supervisors -  All
 	- Others - O
 - **PAPER 1**
-	- Meeting Minutes - PhD - PS - 14/09/21
+	- Meeting Minutes - PhD - PS - [[Sep 14th, 2021]]
 	  collapsed:: true
 		- Project: Smoking Cessation
 		- Topic: Paper 1
@@ -51,6 +51,28 @@
 				- Early access for VN
 				- Contact Sophia for pptx template
 				- Thanh takes initiatives in all PhD meetings
+		- **Conclusion:**
+			-
+		- **Notes:**
+			-
+		- **Attachments:**
+	- Meeting Minutes - PhD - All - dd/mm/yy
+	  collapsed:: true
+		- Project: Smoking Cessation
+		- Topic:
+		- Date:
+		- Time:
+		- Attendees:
+			- TH
+			- NN
+			-
+		- Agenda:
+			-
+			- **Revision:**
+				-
+			- **Actions:**
+				-
+				  TODO
 		- **Conclusion:**
 			-
 		- **Notes:**

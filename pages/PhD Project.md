@@ -15,8 +15,8 @@
 		- Supervision meeting on [[Sep 21st, 2021]]
 			- Timeplan
 			- Progression
+			- Quick view of protocol (table of search strategy)
 			- Preliminary search results
-			-
 	- **Systematic review protocol** - [Paper 1 Protocol.docx](../assets/Paper_201_20Protocol_1631703808603_0.docx)
 	- **Paper draf**t - [MPH Thesis - Thanh Hoang (clean version).docx](../assets/MPH_20Thesis_20-_20Thanh_20Hoang_20(clean_20version)_1631703753840_0.docx)
 	- **EndNote** search results - [Paper 1 - PhD.rdf](../assets/Paper_201_20-_20PhD_1631704287641_0.rdf)
